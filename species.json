@@ -7,23 +7,13 @@
       "Südamerika"
     ],
     "biome": [
-      "tropisch","grasland"
+      "tropisch",
+      "grasland"
     ],
     "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
-    "id": "afrikanischer_leopard",
-    "name": "Afrikanischer Leopard",
-    "besucher": "geschlossen",
-    "kontinente": [
-      "Afrika"
-    ],
-    "biome": [
-      "tropisch","grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
-  },{
+  },
+  {
     "id": "afrikanischer_elefant",
     "name": "Afrikanischer Elefant",
     "besucher": "geschlossen",
@@ -31,13 +21,30 @@
       "Afrika"
     ],
     "biome": [
-      "wüste","grasland","feuchtgebiet"
+      "wüste",
+      "grasland",
+      "feuchtgebiet"
     ],
     "interspezifisch_ids": [
       "mantelpavian"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
+    "id": "afrikanischer_leopard",
+    "name": "Afrikanischer Leopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
     "id": "afrikanischer_strauß",
     "name": "Afrikanischer Strauß",
     "besucher": "geschlossen",
@@ -45,13 +52,28 @@
       "Afrika"
     ],
     "biome": [
-      "grasland","wüste"
+      "grasland",
+      "wüste"
     ],
     "interspezifisch_ids": [
-      "breitmaulnashorn","mendesantilope","netzgiraffe","rappenantilope","schwartzbüffel","somali-wildesel","springbock","steppenzebra","streifengnu","säbelantilope","tomsen-gazelle","warzenschwein","weisnacken-moorantilope","weissschwanzgnu"
+      "breitmaulnashorn",
+      "mendesantilope",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "somali-wildesel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "tomsen-gazelle",
+      "warzenschwein",
+      "weißnacken-moorantilope",
+      "weißschwanzgnu"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "afrikanischer_wildhund",
     "name": "Afrikanischer Wildhund",
     "besucher": "geschlossen",
@@ -59,12 +81,14 @@
       "Afrika"
     ],
     "biome": [
-      "grasland","wüste"
+      "grasland",
+      "wüste"
     ],
     "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
-    "id": "Aldabra-Riesenschildkröte",
+  },
+  {
+    "id": "aldabra_riesenschildkröte",
     "name": "Aldabra-Riesenschildkröte",
     "besucher": "begehbar",
     "kontinente": [
@@ -75,7 +99,8 @@
     ],
     "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "alpaka",
     "name": "Alpaka",
     "besucher": "begehbar+interaktion",
@@ -83,13 +108,19 @@
       "Südamerika"
     ],
     "biome": [
-      "gemäßigt","grasland","taiga"
+      "gemäßigt",
+      "grasland",
+      "taiga"
     ],
     "interspezifisch_ids": [
-      "capybara","hill-radnor-schaf","lama","nandu"
+      "capybara",
+      "hill-radnor-schaf",
+      "lama",
+      "nandu"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "alpensteinbock",
     "name": "Alpensteinbock",
     "besucher": "geschlossen",
@@ -99,11 +130,10 @@
     "biome": [
       "taiga"
     ],
-    "interspezifisch_ids": [
-
-    ],
+    "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "amerikanischer_biber",
     "name": "Amerikanischer Biber",
     "besucher": "begehbar",
@@ -111,13 +141,18 @@
       "Nordamerika"
     ],
     "biome": [
-      "taiga","gemäßigt","grasland","feuchtgebiet"
+      "taiga",
+      "gemäßigt",
+      "grasland",
+      "feuchtgebiet"
     ],
     "interspezifisch_ids": [
-      "streifenskunk","waschbär"
+      "streifenskunk",
+      "waschbär"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "amerikanischer_bison",
     "name": "Amerikanischer Bison",
     "besucher": "geschlossen",
@@ -125,13 +160,18 @@
       "Nordamerika"
     ],
     "biome": [
-      "grasland","taiga"
+      "grasland",
+      "taiga"
     ],
     "interspezifisch_ids": [
-      "dickhornschaf","gabelbock","halsbandpekari","schwarzschwanz-präriehund"
+      "dickhornschaf",
+      "gabelbock",
+      "halsbandpekari",
+      "schwarzschwanz-präriehund"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "amerikanischer_standard_esel",
     "name": "Amerikanischer Standard Esel",
     "besucher": "begehbar+interaktion",
@@ -139,13 +179,16 @@
       "Nordamerika"
     ],
     "biome": [
-      "gemäßigt","grasland","wüste"
+      "gemäßigt",
+      "grasland",
+      "wüste"
     ],
     "interspezifisch_ids": [
       "hill-radnor-schaf"
     ],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "amurleopard",
     "name": "Amurleopard",
     "besucher": "geschlossen",
@@ -153,14 +196,14 @@
       "Asien"
     ],
     "biome": [
-      "taiga","gemäßigt"
+      "taiga",
+      "gemäßigt"
     ],
-    "interspezifisch_ids": [
-
-    ],
+    "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
-    "id": "australische-großschabe",
+  },
+  {
+    "id": "australische_großschabe",
     "name": "Australische Großschabe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -169,11 +212,10 @@
     "biome": [
       "gemäßigt"
     ],
-    "interspezifisch_ids": [
-
-    ],
+    "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "axolotl",
     "name": "Axolotl",
     "besucher": "geschlossen",
@@ -181,13 +223,13 @@
       "Nordamerika"
     ],
     "biome": [
-      "feuchtgebiet","wüste"
+      "feuchtgebiet",
+      "wüste"
     ],
-    "interspezifisch_ids": [
-
-    ],
+    "interspezifisch_ids": [],
     "neutral_ids": []
-  },{
+  },
+  {
     "id": "bartaffe",
     "name": "Bartaffe",
     "besucher": "geschlossen",
@@ -197,262 +239,2539 @@
     "biome": [
       "tropisch"
     ],
-    "interspezifisch_ids": [
-
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "bindenwaran",
+    "name": "Bindenwaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
     ],
+    "biome": [
+      "tropisch","grasland","feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "binturong",
+    "name": "Binturong",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch","gemäßigt"
+    ],
+    "interspezifisch_ids": [
+      "malaysischer_tapir","sonnenbär","zwergotter"
+    ],
+    "neutral_ids": []
+  },
+    {
+    "id": "blauer_morphofalter",
+    "name": "Blauer Morphofalter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland","tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "blauer_pfau",
+    "name": "Blauer Pfau",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemäßigt","tropisch","grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "blauzungenskink",
+    "name": "Blauzungenskink",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemäßigt","grasland","tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "bongo",
+    "name": "Bongo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "bonobo",
+    "name": "Bonobo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "borneo_orang_utan",
+    "name": "Borneo-Orang-Utan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "borneo_zwergelefant","malaysischer_tapir","siamang","weißhandgibbon","zwergotter"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "borneo_zwergelefant",
+    "name": "Borneo-Zwergelefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet","tropisch","grasland"
+    ],
+    "interspezifisch_ids": [
+      "borneo_orang_utan","nasenaffe","zwergotter"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "brasilianische_riesenvogelspinne",
+    "name": "Brasilianische Riesenvogelspinne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brasilianische_wanderspinne",
+    "name": "Brasilianische Wanderspinne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brasilianischer_riesenläufer",
+    "name": "Brasilianischer Riesenläufer",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brauen_glattstirnkaiman",
+    "name": "Brauen-Glattstirnkaiman",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "braunkehl_faultier",
+    "name": "Braunkehl-Faultier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "breitmaulnashorn",
+    "name": "Breitmaulnashorn",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brillenbär",
+    "name": "Brillenbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brillenflughund",
+    "name": "Brillenflughund",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brillenpinguin",
+    "name": "Brillenpinguin",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "capybara",
+    "name": "Capybara",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "chinesisches_schuppentier",
+    "name": "Chinesisches Schuppentier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "coquerel_sifaka",
+    "name": "Coquerel-Sifaka",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "dall_schaf",
+    "name": "Dall-Schaf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "damagazelle",
+    "name": "Damagazelle",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "damhirsch",
+    "name": "Damhirsch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "davidshirsch",
+    "name": "Davidshirsch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "diamantschildkröte",
+    "name": "Diamantschildkröte",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "dickhornschaf",
+    "name": "Dickhornschaf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "dingo",
+    "name": "Dingo",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "donau_kammmolch",
+    "name": "Donau-Kammmolch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "dromedar",
+    "name": "Dromedar",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "echte_achatschnecke",
+    "name": "Echte Achatschnecke",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "eisbär",
+    "name": "Eisbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "elch",
+    "name": "Elch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "erdferkel",
+    "name": "Erdferkel",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "erdmännchen",
+    "name": "Erdmännchen",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "eurasischer_luchs",
+    "name": "Eurasischer Luchs",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "europäischer_dachs",
+    "name": "Europäischer Dachs",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "fennek",
+    "name": "Fennek",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "feuersalamander",
+    "name": "Feuersalamander",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "flusspferd",
+    "name": "Flusspferd",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "fossa",
+    "name": "Fossa",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gabelbock",
+    "name": "Gabelbock",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "galapagos_riesenschildkröte",
+    "name": "Galapagos-Riesenschildkröte",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gangesgavial",
+    "name": "Gangesgavial",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gelbe_anakonda",
+    "name": "Gelbe Anakonda",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gemeiner_blauzungenskink",
+    "name": "Gemeiner Blauzungenskink",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gepard",
+    "name": "Gepard",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gila_krustenechse",
+    "name": "Gila-Krustenechse",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "goliath_vogelspinne",
+    "name": "Goliath-Vogelspinne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "goliathfrosch",
+    "name": "Goliathfrosch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "goliathkäfer",
+    "name": "Goliathkäfer",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "griechische_landschildkröte",
+    "name": "Griechische Landschildkröte",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "grizzlybär",
+    "name": "Grizzlybär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "großer_ameisenbär",
+    "name": "Großer Ameisenbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "großer_emu",
+    "name": "Großer Emu",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "großer_panda",
+    "name": "Großer Panda",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "großes_wandelndes_blatt",
+    "name": "Großes Wandelndes Blatt",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "grüner_inselleguan",
+    "name": "Grüner Inselleguan",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "grüner_leguan",
+    "name": "Grüner Leguan",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "haariger_wüstenskorpion",
+    "name": "Haariger Wüstenskorpion",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "halsbandpekari",
+    "name": "Halsbandpekari",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "hausziege",
+    "name": "Hausziege",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "heiliger_pillendreher",
+    "name": "Heiliger Pillendreher",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "helmkasuar",
+    "name": "Helmkasuar",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "hill_radnor_schaf",
+    "name": "Hill-Radnor-Schaf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "hirschziegenantilope",
+    "name": "Hirschziegenantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "hochlandrind",
+    "name": "Hochlandrind",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "honigdachs",
+    "name": "Honigdachs",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "höckerschwan",
+    "name": "Höckerschwan",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "indischer_elefant",
+    "name": "Indischer Elefant",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "indischer_riesenskorpion",
+    "name": "Indischer Riesenskorpion",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "isabellbär",
+    "name": "Isabellbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "japanmakak",
+    "name": "Japanmakak",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kaffernbüffel",
+    "name": "Kaffernbüffel",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kalifornischer_seelöwe",
+    "name": "Kalifornischer Seelöwe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "karakal",
+    "name": "Karakal",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "katta",
+    "name": "Katta",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kegelrobbe",
+    "name": "Kegelrobbe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kirk_dikdik",
+    "name": "Kirk-Dikdik",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kleiner_panda",
+    "name": "Kleiner Panda",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kojote",
+    "name": "Kojote",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "komodowaran",
+    "name": "Komodowaran",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "krokodilkaiman",
+    "name": "Krokodilkaiman",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kubaflamingo",
+    "name": "Kubaflamingo",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "königspinguin",
+    "name": "Königspinguin",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "königstiger",
+    "name": "Königstiger",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "lama",
+    "name": "Lama",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "lehmanns_pfeilgiftfrosch",
+    "name": "Lehmanns Pfeilgiftfrosch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "leistenkrokodil",
+    "name": "Leistenkrokodil",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "lippenbär",
+    "name": "Lippenbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "malabar_rose",
+    "name": "Malabar-Rose",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "malaysischer_tapir",
+    "name": "Malaysischer Tapir",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mandrill",
+    "name": "Mandrill",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mandschurenkranich",
+    "name": "Mandschurenkranich",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mantelpavian",
+    "name": "Mantelpavian",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mendesantilope",
+    "name": "Mendesantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mexikanische_rotknie_vogelspinne",
+    "name": "Mexikanische Rotknie-Vogelspinne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mississippi_alligator",
+    "name": "Mississippi-Alligator",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mittelamerikanischer_tapir",
+    "name": "Mittelamerikanischer Tapir",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mähnenwolf",
+    "name": "Mähnenwolf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nacktnasenwombat",
+    "name": "Nacktnasenwombat",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nandu",
+    "name": "Nandu",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nasenaffe",
+    "name": "Nasenaffe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nebelparder",
+    "name": "Nebelparder",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "netzgiraffe",
+    "name": "Netzgiraffe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "neunbinden_gürteltier",
+    "name": "Neunbinden-Gürteltier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nilflughund",
+    "name": "Nilflughund",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nilgauantilope",
+    "name": "Nilgauantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nilwaran",
+    "name": "Nilwaran",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nordamerikanischer_ochsenfrosch",
+    "name": "Nordamerikanischer Ochsenfrosch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nordstreifenkiwi",
+    "name": "Nordstreifenkiwi",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nordsulawesisches_babirusa",
+    "name": "Nordsulawesisches Babirusa",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nyala",
+    "name": "Nyala",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "okapi",
+    "name": "Okapi",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "ozelot",
+    "name": "Ozelot",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "pallaskatze",
+    "name": "Pallaskatze",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "panzernashorn",
+    "name": "Panzernashorn",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "pinselohrschwein",
+    "name": "Pinselohrschwein",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "polarfuchs",
+    "name": "Polarfuchs",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "polarwolf",
+    "name": "Polarwolf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "przewalski_pferd",
+    "name": "Przewalski-Pferd",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "puffotter",
+    "name": "Puffotter",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "quokka",
+    "name": "Quokka",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rappenantilope",
+    "name": "Rappenantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rentier",
+    "name": "Rentier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "riesenbockkäfer",
+    "name": "Riesenbockkäfer",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "riesenotter",
+    "name": "Riesenotter",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rosaflamingo",
+    "name": "Rosaflamingo",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rotaugenlaubfrosch",
+    "name": "Rotaugenlaubfrosch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "roter_panda",
+    "name": "Roter Panda",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "roter_vari",
+    "name": "Roter Vari",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rotes_riesenkänguru",
+    "name": "Rotes Riesenkänguru",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rotfuchs",
+    "name": "Rotfuchs",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rothirsch",
+    "name": "Rothirsch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rothund",
+    "name": "Rothund",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rotnackenwallaby",
+    "name": "Rotnackenwallaby",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "saiga",
+    "name": "Saiga",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "sandkatze",
+    "name": "Sandkatze",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schmetterlinge",
+    "name": "Schmetterlinge",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schnabeltier",
+    "name": "Schnabeltier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schneeleopard",
+    "name": "Schneeleopard",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schraubenziege",
+    "name": "Schraubenziege",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schrecklicher_pfeilgiftfrosch",
+    "name": "Schrecklicher Pfeilgiftfrosch",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schwarzschwanz_präriehund",
+    "name": "Schwarzschwanz-Präriehund",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schwarzweißer_vari",
+    "name": "Schwarzweißer Vari",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "siamang",
+    "name": "Siamang",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "sibirischer_tiger",
+    "name": "Sibirischer Tiger",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "somali_wildesel",
+    "name": "Somali-Wildesel",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "sonnenbär",
+    "name": "Sonnenbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "spießbock",
+    "name": "Spießbock",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "spitzmaulnashorn",
+    "name": "Spitzmaulnashorn",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "spornschildkröte",
+    "name": "Spornschildkröte",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "springbock",
+    "name": "Springbock",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "steppenzebra",
+    "name": "Steppenzebra",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "streifengnu",
+    "name": "Streifengnu",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "streifenhyäne",
+    "name": "Streifenhyäne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "streifenskunk",
+    "name": "Streifenskunk",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "sussex_huhn",
+    "name": "Sussex-Huhn",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "säbelantilope",
+    "name": "Säbelantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "taiwanischer_schwarzbär",
+    "name": "Taiwanischer Schwarzbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "takin",
+    "name": "Takin",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "tamworth_schwein",
+    "name": "Tamworth-Schwein",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "tanuki",
+    "name": "Tanuki",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "tasmanischer_teufel",
+    "name": "Tasmanischer Teufel",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "texas_klapperschlange",
+    "name": "Texas-Klapperschlange",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "thomson_gazelle",
+    "name": "Thomson-Gazelle",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "timberwolf",
+    "name": "Timberwolf",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "todesotter",
+    "name": "Todesotter",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "trampeltier",
+    "name": "Trampeltier",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "tüpfelhyäne",
+    "name": "Tüpfelhyäne",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "vielfraß",
+    "name": "Vielfraß",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "waldhund",
+    "name": "Waldhund",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "warzenschwein",
+    "name": "Warzenschwein",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "waschbär",
+    "name": "Waschbär",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "wasserbüffel",
+    "name": "Wasserbüffel",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "weißhandgibbon",
+    "name": "Weißhandgibbon",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "weißkopfsaki",
+    "name": "Weißkopfsaki",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "weißnacken_moorantilope",
+    "name": "Weißnacken-Moorantilope",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "weißschulter_kapuzineraffe",
+    "name": "Weißschulter-Kapuzineraffe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "weißschwanzgnu",
+    "name": "Weißschwanzgnu",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "westafrikanischer_löwe",
+    "name": "Westafrikanischer Löwe",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "westafrikanisches_stachelschwein",
+    "name": "Westafrikanisches Stachelschwein",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "westlicher_flachlandgorilla",
+    "name": "Westlicher Flachlandgorilla",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "westlicher_schimpanse",
+    "name": "Westlicher Schimpanse",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "wildschwein",
+    "name": "Wildschwein",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "wisent",
+    "name": "Wisent",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "wüsten_hornviper",
+    "name": "Wüsten-Hornviper",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "zwergflusspferd",
+    "name": "Zwergflusspferd",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "zwergotter",
+    "name": "Zwergotter",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "zwergpinguin",
+    "name": "Zwergpinguin",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "östliche_braunschlange",
+    "name": "Östliche Braunschlange",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
     "neutral_ids": []
   }
 ]
-/*
-Blauer Pfau
-Bongo
-Bonobo
-Borneo-Orang-Utan
-Brasilianische Riesenvogelspinne
-Brasilianische Wanderspinne
-Brasilianischer Riesenläufer
-Chinesisches Schuppentier
-Echte Achatschnecke
-Erdferkel
-Flusspferd
-Gabelbock
-Galapagos-Riesenschildkröte
-Gangesgavial
-Gelbe Anakonda
-Gepard
-Gila-Krustenechse
-Goliath-Vogelspinne
-Goliathfrosch
-Goliathkäfer
-Grizzlybär
-Großer Panda
-Grüner Inselleguan
-Grüner Leguan
-Haariger Wüstenskorpion
-Halsbandpekari (anlässlich des vierjährigen Release-Jubiläums)
-Indischer Elefant
-Indischer Riesenskorpion
-Isabellbär
-Japanmakak
-Kaffernbüffel
-Katta
-Kleiner Panda
-Komodowaran (nur Deluxe Edition)
-Königstiger
-Lehmanns Pfeilgiftfrosch
-Leistenkrokodil
-Malabar-Rose (hinzugefügt mit Update 1.20)
-Mandrill
-Mexikanische Rotknie-Vogelspinne
-Mittelamerikanischer Tapir
-Netzgiraffe
-Nilwaran
-Nyala
-Okapi
-Östliche Braunschlange
-Panzernashorn
-Puffotter
-Rappenantilope
-Riesenbockkäfer
-Rosaflamingo
-Roter Vari
-Rothirsch (anlässlich des dreijährigen Release-Jubiläums)
-Schneeleopard
-Schrecklicher Pfeilgiftfrosch
-Schwarzweißer Vari (anlässlich des zweijährigen Release-Jubiläums)
-Sibirischer Tiger
-Spießbock
-Springbock
-Steppenzebra
-Taiwanischer Schwarzbär
-Texas-Klapperschlange
-Thomson-Gazelle (nur Deluxe Edition)
-Timberwolf
-Todesotter
-Trampeltier
-Tüpfelhyäne
-Warzenschwein
-Weißschwanzgnu
-Westafrikanischer Löwe
-Westlicher Flachlandgorilla
-Westlicher Schimpanse
-Zwergflusspferd (nur Deluxe Edition)
-Erweiterungen
-Arctic Pack
-Am 17. Dezember 2019 erschien das Arctic Pack, das das Spiel um zwei neue Szenarien, über 200 neue Objekte und die folgenden vier Tierarten erweitert:
-
-Dall-Schaf
-Eisbär
-Polarwolf
-Rentier
-South America Pack
-Am 7. April 2020 erschien das South America Pack, das das Spiel um über 250 neue Objekte und die folgenden fünf Tierarten erweitert:
-
-Großer Ameisenbär
-Jaguar
-Lama
-Rotaugenlaubfrosch
-Weißschulter-Kapuzineraffe
-Australia Pack
-Am 25. August 2020 erschien das Australia Pack, das das Spiel um über 230 neue Objekte und die folgenden fünf Tierarten erweitert:
-
-Dingo
-Gemeiner Blauzungenskink
-Helmkasuar
-Koala
-Rotes Riesenkänguru
-Aquatic Pack
-Am 8. Dezember 2020 erschien das Aquatic Pack, das das Spiel um über 120 neue Objekte und die folgenden fünf Tierarten erweitert:
-
-Brauen-Glattstirnkaiman
-Diamantschildkröte
-Kegelrobbe
-Königspinguin
-Riesenotter
-Southeast Asia Animal Pack
-Am 30. März 2021 erschien das Southeast Asia Animal Pack, das sich hauptsächlich auf neue Tierspezies aus Südostasien konzentriert. Das Spiel wird um die folgenden acht Tierarten erweitert:
-
-Binturong
-Großes Wandelndes Blatt
-Malaysischer Tapir
-Nasenaffe
-Nebelparder
-Nordsulawesisches Babirusa
-Rothund
-Sonnenbär
-Africa Pack
-Am 22. Juni 2021 erschien das Africa Pack, das das Spiel um ein neues Szenario, über 180 neue Objekte und die folgenden fünf Tierarten erweitert:
-
-Breitmaulnashorn
-Brillenpinguin
-Erdmännchen
-Fennek
-Heiliger Pillendreher
-North America Animal Pack
-Am 4. Oktober 2021 erschien das North America Animal Pack, das sich hauptsächlich auf neue Tierspezies aus Nordamerika konzentriert. Das Spiel wird um die folgenden acht Tierarten erweitert:
-
-Elch
-Kalifornischer Seelöwe
-Mississippi-Alligator
-Nordamerikanischer Ochsenfrosch
-Polarfuchs
-Puma
-Schwarzschwanz-Präriehund
-Europe Pack
-Am 14. Dezember 2021 erschien das Europe Pack, das das Spiel um über 250 neue Objekte und die folgenden fünf Tierarten erweitert:
-
-
-Damhirsch
-Eurasischer Luchs
-Europäischer Dachs
-Feuersalamander
-Wetlands Animal Pack
-Am 12. April 2022 erschien das Wetlands Animal Pack, das das Spiel um acht Tierarten erweitert, die vorzugsweise in Feuchtgebieten heimisch sind:
-
-Capybara
-Donau-Kammmolch
-Krokodilkaiman
-Mandschurenkranich
-Schnabeltier
-Wasserbüffel
-Weißnacken-Moorantilope
-Zwergotter
-Conservation Pack
-Am 21. Juni 2022 erschien das Conservation Pack, welches das Spiel um 150 neue Objekte und fünf Tierarten erweitert, die weltweit durch Arterhaltung in Zoos vertreten sind:
-
-Przewalski-Pferd
-Säbelantilope
-Siamang
-Twilight Pack
-Am 18. Oktober 2022 erschien das Twilight Pack, welches das Spiel um neue Objekte rund um das Thema Halloween und fünf Tierarten erweitert, die überwiegend nachtaktiv sind:
-
-Nacktnasenwombat
-Nilflughund
-Rotfuchs
-Streifenskunk
-Waschbär
-Grasslands Animal Pack
-Am 13. Dezember 2022 erschien das Grasslands Animal Pack, welches das Spiel um acht Tierarten erweitert, die überwiegend in den Graslandschaften der Steppen und Prärien leben:
-
-Großer Emu
-Karakal
-Mähnenwolf
-Neunbinden-Gürteltier
-Rotnackenwallaby
-Schmetterlinge (darunter Blauer Morphofalter, Monarchfalter, Tagpfauenauge, Schwalbenschwanz und Schwefelfalter)
-Streifengnu
-Streifenhyäne
-Tropical Pack
-Am 4. April 2023 erschien das Tropical Pack, welches das Spiel um 200 neue Objekte und fünf Tierarten erweitert, die in den tropischen Regenwäldern aller Welt leben:
-
-Bindenwaran
-Braunkehl-Faultier
-Fossa
-Pinselohrschwein
-Weißhandgibbon
-Arid Animal Pack
-Am 20. Juni 2023 erschien das Arid Animal Pack, welches das Spiel um ein neues Szenario und acht Tierarten erweitert, die Gebiete mit aridem Klima bewohnen:
-
-Damagazelle
-Dromedar
-Mendesantilope
-Sandkatze
-Somali-Wildesel
-Spitzmaulnashorn
-Westafrikanisches Stachelschwein
-Wüsten-Hornviper
-Oceania Pack
-Am 19. September 2023 erschien das Oceania Pack, welches das Spiel um 200 neue Objekte, ein neues Szenario und fünf Tierarten erweitert, die hauptsächlich in und um Australien und Ozeanien beheimatet sind:
-
-Brillenflughund
-Nordstreifenkiwi
-Quokka
-Tasmanischer Teufel
-Zwergpinguin
-Eurasia Animal Pack
-Am 13. Dezember 2023 erschien das Eurasia Animal Pack, welches das Spiel um ein neues Szenario und acht Tierarten erweitert, die in Eurasien leben:
-
-Griechische Landschildkröte
-Höckerschwan
-Lippenbär
-Saiga
-Takin
-Vielfraß
-Wildschwein
-Wisent
-Barnyard Animal Pack
-Am 30. April 2024 erschien das Barnyard Animal Pack, welches das Spiel um ein neues Szenario und sieben Tierarten erweitert, die hauptsächlich auf einem Bauernhof zu finden sind:
-Hausziege
-Hill-Radnor-Schaf
-Hochlandrind
-Sussex-Huhn
-Tamworth-Schwein
-Zookeepers Animal Pack
-Am 15. Oktober 2024 erschien das Zookeepers Animal Pack, welches das Spiel um über 95 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert:
-
-Brillenbär
-Coquerel-Sifaka
-Kirk-Dikdik
-Mantelpavian
-Pallaskatze
-Schraubenziege
-Spornschildkröte
-Americas Animal Pack
-Am 15. April 2025 erschien das Americas Animal Pack, welches das Spiel um über 80 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert, die in Nord- und Südamerika leben:
-
-Dickhornschaf
-Kojote
-Kubaflamingo
-Nandu
-Ozelot
-Waldhund
-Weißkopfsaki
-Asia Animal Pack
-Am 25. Juni 2025 erschien das Asia Animal Pack, welches das Spiel um 100 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert, die in Asien beheimatet sind:
-Borneo-Zwergelefant
-Davidshirsch
-Hirschziegenantilope
-Honigdachs
-Nilgauantilope
-Tanuki
-*/
