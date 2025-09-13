@@ -1,0 +1,618 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Planet Zoo – Kombi-Rechner & Editor (DE)</title>
+  <style>
+    /* ===== Dunkles, schlichtes Theme – nur Optik ===== */
+    :root{
+      --bg:#0b0f14; --card:#121823; --text:#e7edf2; --muted:#9bb0bd; --accent:#49b3ff;
+      --ok:#6ee7a0; --warn:#ffd166; --bad:#ff6b6b; --border:#1e2633;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial;background:var(--bg);color:var(--text)}
+    header{position:sticky;top:0;background:rgba(11,15,20,.92);border-bottom:1px solid var(--border);backdrop-filter:blur(6px)}
+    .wrap{max-width:1200px;margin:auto;padding:12px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+    h1{font-size:18px;margin:0}
+    main{max-width:1200px;margin:auto;padding:16px;display:grid;grid-template-columns:360px 1fr;gap:16px}
+    @media (max-width:980px){ main{grid-template-columns:1fr} }
+    .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:14px}
+    .section-title{font-weight:700;margin:0 0 10px;font-size:14px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px}
+    label{display:block;font-size:12px;color:var(--muted);margin:8px 0 6px}
+    input[type=text],select,textarea{width:100%;padding:9px 10px;background:#0e141d;color:var(--text);border:1px solid var(--border);border-radius:10px}
+    textarea{min-height:56px;resize:vertical}
+    .row{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+    button{padding:9px 12px;border-radius:12px;border:1px solid var(--border);background:#0f1622;color:var(--text);cursor:pointer}
+    button.primary{background:var(--accent);color:#04121d;border-color:#1a88d6;font-weight:700}
+    button.good{background:#13301f;border-color:#1f5e34;color:var(--ok)}
+    button.warn{background:#3b2f12;border-color:#7c5d1a;color:var(--warn)}
+    button.bad{background:#3b1515;border-color:#7c1a1a;color:var(--bad)}
+    button:disabled{opacity:.5;cursor:not-allowed}
+    table{width:100%;border-collapse:collapse}
+    th,td{border-bottom:1px solid var(--border);padding:8px 6px;text-align:left;font-size:14px;vertical-align:top}
+    th{color:var(--muted);font-weight:600}
+    tr:hover{background:#0f1622}
+    .pill{display:inline-flex;align-items:center;gap:6px;padding:2px 8px;border-radius:999px;border:1px solid var(--border);font-size:12px;color:var(--muted)}
+    .pill.ok{color:var(--ok);border-color:#204f39;background:#0d1f17}
+    .pill.closed{color:#b3c0c9}
+    .pill.bad{color:var(--bad);border-color:#7c1a1a;background:#3b1515}
+    .mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px}
+    .small{font-size:12px;color:var(--muted)}
+    .result{white-space:pre-wrap;background:#0e141d;border:1px dashed var(--border);padding:10px;border-radius:12px;min-height:72px}
+    hr{border:0;border-top:1px solid var(--border);opacity:.5;margin:14px 0}
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Planet Zoo – Kombi-Rechner & Editor (DE)</h1>
+    <span class="pill">Regel: Nur BONUS/NEUTRAL erlaubt – sonst ❌</span>
+    <!-- Legende für ??? -->
+    <span class="pill bad" title="Platzhalter: Daten fehlen">??? = Daten fehlen</span>
+  </div>
+</header>
+
+<main>
+  <!-- =========================================
+       LINKES PANEL: JSON-I/O, EDITOR, VALIDIERUNG
+       ========================================= -->
+  <section class="card">
+    <div class="section-title">JSON laden / speichern</div>
+    <div class="actions">
+      <input type="file" id="fileInput" accept="application/json" />
+      <button id="downloadBtn">Als JSON herunterladen</button>
+    </div>
+    <div id="countInfo" class="small mono" style="margin-top:8px"></div>
+
+    <hr />
+
+    <div class="section-title">Tier anlegen / bearbeiten</div>
+    <!--
+      WICHTIG: deutsche Feldnamen & Werte
+      - id, name
+      - besucher: "geschlossen" | "begehbar" | "begehbar+interaktion" | "???"
+      - kontinente: Afrika, Asien, Europa, Nordamerika, Südamerika, Ozeanien, "???"
+      - biome: tropisch, gemäßigt, wüste, taiga, tundra, grasland, feuchtgebiet, "???"
+      - interspezifisch_ids: BONUS (IDs)
+      - neutral_ids: NEUTRAL (IDs)
+    -->
+    <form id="form">
+      <label for="id">ID</label>
+      <input id="id" type="text" placeholder="z. B. capybara" required />
+
+      <label for="name">Name</label>
+      <input id="name" type="text" placeholder="z. B. Capybara oder Wasserschwein" />
+
+      <div class="row">
+        <div>
+          <label for="besucher">Besucher-Status</label>
+          <select id="besucher">
+            <option value="geschlossen">geschlossen</option>
+            <option value="begehbar">begehbar</option>
+            <option value="begehbar+interaktion">begehbar+interaktion</option>
+            <option value="???">??? (unbekannt)</option>
+          </select>
+        </div>
+        <div>
+          <label for="kontinente">Kontinente (Komma)</label>
+          <input id="kontinente" type="text" placeholder="Südamerika, Ozeanien oder ???" />
+        </div>
+      </div>
+
+      <label for="biome">Biome (Komma)</label>
+      <input id="biome" type="text" placeholder="tropisch, grasland oder ???" />
+
+      <div class="row">
+        <div>
+          <label for="bonus">BONUS – interspezifische IDs</label>
+          <textarea id="bonus" placeholder="llama, capybara"></textarea>
+        </div>
+        <div>
+          <label for="neutral">NEUTRAL – IDs</label>
+          <textarea id="neutral" placeholder="giant_anteater"></textarea>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button class="primary" id="saveBtn" type="submit">Speichern / Aktualisieren</button>
+        <button type="button" id="newBtn">Neu</button>
+        <button type="button" class="bad" id="deleteBtn">Löschen</button>
+      </div>
+    </form>
+
+    <hr />
+
+    <div class="section-title">Daten-Prüfung (Qualität)</div>
+    <!--
+      Prüft typische Fehler:
+      - Fehlende Daten (???): name, besucher, kontinente, biome
+      - Asymmetrien (A listet B, aber B listet A nicht) in BONUS/NEUTRAL
+      - Unbekannte IDs
+      - Selbst-Verweise
+      Mit Auto-Sync-Buttons für BONUS/NEUTRAL.
+    -->
+    <div class="actions">
+      <button class="warn" id="btnCheck">Validieren</button>
+      <button class="good" id="btnSyncBonus">Auto-Sync BONUS</button>
+      <button class="good" id="btnSyncNeutral">Auto-Sync NEUTRAL</button>
+      <button id="btnShowMissing" class="bad" title="Nur Einträge mit ??? anzeigen / ausblenden">Nur ???</button>
+    </div>
+    <div id="validation" class="result mono" style="margin-top:8px"></div>
+  </section>
+
+  <!-- =========================================
+       RECHTES PANEL: FILTER, TABELLE, RECHNER
+       ========================================= -->
+  <section class="card">
+    <div class="section-title">Filter</div>
+    <div class="row">
+      <div>
+        <label>Kontinente</label>
+        <select id="fltKontinente" multiple size="6" style="width:100%"></select>
+      </div>
+      <div>
+        <label>Biome</label>
+        <select id="fltBiome" multiple size="7" style="width:100%"></select>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="clearFilters">Filter leeren</button>
+    </div>
+
+    <div class="section-title" style="margin-top:14px">Arten (anklicken zum Bearbeiten)</div>
+    <div style="overflow:auto; max-height:320px; border:1px solid var(--border); border-radius:12px;">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th>ID</th><th>Name</th><th>Besucher</th><th>Kontinente</th><th>Biome</th><th>BONUS</th><th>NEUTRAL</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <div class="section-title" style="margin-top:16px">Rechner: größte Gruppe (enthält Starttier)</div>
+    <div class="row">
+      <div>
+        <label for="seed">Starttier auswählen</label>
+        <select id="seed"></select>
+      </div>
+      <div>
+        <label for="mode">Modus</label>
+        <select id="mode">
+          <option value="allgemein">Allgemein (BONUS/NEUTRAL)</option>
+          <option value="begehbar">Begehbar</option>
+          <option value="interaktion">Interaktion (begehbar+interaktion)</option>
+        </select>
+      </div>
+    </div>
+    <div class="actions">
+      <button class="good" id="btnCompute">Größte Gruppe berechnen</button>
+    </div>
+    <label>Ergebnis</label>
+    <div id="result" class="result mono"></div>
+  </section>
+</main>
+
+<script>
+/* ============================================================
+   0) Hilfsfunktionen & globale Variablen
+   ============================================================ */
+const $ = (sel) => document.querySelector(sel);
+const byId = (id) => species.find(s => s.id === id);
+const uniq = (arr) => Array.from(new Set(arr)).filter(Boolean);
+const splitList = (str) => uniq((str||"").split(/[,;\\n ]+/).map(x=>x.trim()).filter(Boolean));
+const joinList  = (arr) => (arr||[]).join(", ");
+
+// Hier liegen deine Arten (wird beim JSON-Laden ersetzt)
+let species = [];
+
+// Toggle: Nur Einträge mit fehlenden Daten (???)
+let showMissing = false;
+
+/* ============================================================
+   1) Paar-Logik – Default-Deny
+   ============================================================ */
+const istBonus   = (a,bId) => (a.interspezifisch_ids||[]).includes(bId);
+const istNeutral = (a,bId) => (a.neutral_ids||[]).includes(bId);
+function paarKlasse(a,b){
+  // BONUS sticht vor NEUTRAL (ist stärker)
+  if (istBonus(a,b.id) || istBonus(b,a.id)) return "BONUS";
+  if (istNeutral(a,b.id) || istNeutral(b,a.id)) return "NEUTRAL";
+  return "DENY"; // alles andere verboten (Default-Deny)
+}
+
+// Besucher-Status prüfen
+const istBegehbar = (s) => s.besucher === "begehbar" || s.besucher === "begehbar+interaktion";
+const hatInteraktion = (s) => s.besucher === "begehbar+interaktion";
+
+/* ============================================================
+   2) Anzeige-Helfer: ??? sichtbar machen
+   ============================================================ */
+function fmtVal(val){
+  // Gibt HTML zurück: normale Strings, aber markiert "???"
+  if (val === null || val === undefined) return "";
+  let str = val;
+  if (Array.isArray(val)) str = val.join(", ");
+  if (typeof str !== "string") str = String(str);
+
+  // Markiere exakte ??? oder Fälle, wo ??? als Element enthalten ist
+  if (str.trim() === "???" || str.includes("???")){
+    return `<span class="pill bad">???</span>`;
+  }
+  return str;
+}
+
+function fmtBesucher(b){
+  if (!b) b = "geschlossen";
+  if (b === "???") return `<span class="pill bad">???</span>`;
+  const cls = (b==="begehbar"||b==="begehbar+interaktion") ? "ok" : "closed";
+  return `<span class="pill ${cls}">${b}</span>`;
+}
+
+/* ============================================================
+   3) Filter (Kontinente/Biome – deutsch)
+   ============================================================ */
+function alleKontinente(){ return uniq(species.flatMap(s => s.kontinente||[])); }
+function alleBiome(){       return uniq(species.flatMap(s => s.biome||[])); }
+function filterOptionsBefuellen(){
+  // Auch "???" anzeigen, damit man gezielt nach Lücken filtern kann
+  const kont = alleKontinente();
+  const bio  = alleBiome();
+  $("#fltKontinente").innerHTML = kont.map(c=>`<option value="${c}">${c}</option>`).join("");
+  $("#fltBiome").innerHTML      = bio.map(b=>`<option value="${b}">${b}</option>`).join("");
+}
+function getFilter(){
+  const kont = Array.from($("#fltKontinente").selectedOptions).map(o=>o.value);
+  const bio  = Array.from($("#fltBiome").selectedOptions).map(o=>o.value);
+  return { kont, bio };
+}
+function filterAnwenden(list){
+  const {kont, bio} = getFilter();
+  let res = list.filter(s =>
+    (kont.length===0 || (s.kontinente||[]).some(x=>kont.includes(x))) &&
+    (bio.length===0  || (s.biome||[]).some(x=>bio.includes(x)))
+  );
+  if (showMissing){
+    // Nur Einträge, bei denen mind. EIN Feld unbekannt ist
+    res = res.filter(s =>
+      s.name === "???" ||
+      s.besucher === "???" ||
+      (s.kontinente||[]).includes("???") ||
+      (s.biome||[]).includes("???")
+    );
+  }
+  return res;
+}
+
+/* ============================================================
+   4) Tabelle & Formular
+   ============================================================ */
+function renderTabelle(){
+  const body = $("#tbl tbody");
+  const gefiltert = filterAnwenden(species);
+
+  body.innerHTML = gefiltert.map(s => `
+    <tr data-id="${s.id}">
+      <td class="mono">${s.id}</td>
+      <td>${fmtVal(s.name||"")}</td>
+      <td>${fmtBesucher(s.besucher)}</td>
+      <td class="small">${fmtVal(s.kontinente||[])}</td>
+      <td class="small">${fmtVal(s.biome||[])}</td>
+      <td class="small mono">${joinList(s.interspezifisch_ids||[])}</td>
+      <td class="small mono">${joinList(s.neutral_ids||[])}</td>
+    </tr>
+  `).join("");
+
+  // Infozeile: Anzahl & Lücken-Zähler
+  const fehlende = species.filter(s =>
+    s.name === "???" ||
+    s.besucher === "???" ||
+    (s.kontinente||[]).includes("???") ||
+    (s.biome||[]).includes("???")
+  ).length;
+  $("#countInfo").textContent =
+    `${species.length} Arten geladen • ${gefiltert.length} sichtbar • ${fehlende} mit fehlenden Daten (???)`;
+
+  renderSeedSelect(gefiltert);
+}
+
+function renderSeedSelect(list){
+  $("#seed").innerHTML = list.map(s=>`<option value="${s.id}">${(s.name&&s.name!=="???")?s.name:s.id} (${s.id})</option>`).join("");
+}
+
+// Zeilenklick → Formular füllen
+$("#tbl").addEventListener("click", (e)=>{
+  const tr = e.target.closest("tr"); if(!tr) return;
+  const s = byId(tr.dataset.id);    if(!s)  return;
+  $("#id").value          = s.id;
+  $("#name").value        = (s.name==="???") ? "" : (s.name||"");
+  $("#besucher").value    = s.besucher||"geschlossen";
+  $("#kontinente").value  = (s.kontinente||[]).join(", ");
+  $("#biome").value       = (s.biome||[]).join(", ");
+  $("#bonus").value       = (s.interspezifisch_ids||[]).join(", ");
+  $("#neutral").value     = (s.neutral_ids||[]).join(", ");
+});
+
+// Speichern/Aktualisieren
+$("#form").addEventListener("submit", (e)=>{
+  e.preventDefault();
+  const id = $("#id").value.trim(); if(!id) return;
+  const obj = {
+    id,
+    name: ($("#name").value.trim() || "???"),
+    besucher: $("#besucher").value || "geschlossen",
+    kontinente: splitList($("#kontinente").value) || ["???"],
+    biome: splitList($("#biome").value) || ["???"],
+    interspezifisch_ids: splitList($("#bonus").value),
+    neutral_ids: splitList($("#neutral").value)
+  };
+  const idx = species.findIndex(s=>s.id===id);
+  if(idx>=0) species[idx] = obj; else species.push(obj);
+  renderTabelle();
+});
+
+// Neu
+$("#newBtn").addEventListener("click", ()=>{
+  ["#id","#name","#kontinente","#biome","#bonus","#neutral"].forEach(sel=>$(sel).value="");
+  $("#besucher").value = "geschlossen";
+});
+
+// Löschen
+$("#deleteBtn").addEventListener("click", ()=>{
+  const id = $("#id").value.trim(); if(!id) return;
+  species = species.filter(s=>s.id!==id);
+  $("#form").reset(); $("#besucher").value="geschlossen";
+  renderTabelle();
+});
+
+/* ============================================================
+   5) Dateien – JSON laden/speichern (Download)
+   ============================================================ */
+$("#fileInput").addEventListener("change", async (e)=>{
+  const file = e.target.files?.[0]; if(!file) return;
+  try{
+    const text = await file.text();
+    const data = JSON.parse(text);
+    if(!Array.isArray(data)) throw new Error("JSON muss ein Array von Arten sein.");
+    species = data;
+    filterOptionsBefuellen();
+    renderTabelle();
+  }catch(err){ alert("Fehler beim Laden der JSON: "+err.message); }
+});
+
+$("#downloadBtn").addEventListener("click", ()=>{
+  const blob = new Blob([JSON.stringify(species, null, 2)], {type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "species.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+// Filter-Events
+$("#fltKontinente").addEventListener("change", renderTabelle);
+$("#fltBiome").addEventListener("change", renderTabelle);
+$("#clearFilters").addEventListener("click", ()=>{
+  $("#fltKontinente").selectedIndex = -1;
+  $("#fltBiome").selectedIndex = -1;
+  renderTabelle();
+});
+
+// ???-Filter-Toggle
+$("#btnShowMissing").addEventListener("click", ()=>{
+  showMissing = !showMissing;
+  $("#btnShowMissing").textContent = showMissing ? "Alle anzeigen" : "Nur ???";
+  renderTabelle();
+});
+
+/* ============================================================
+   6) Validierung & Auto-Sync
+   ============================================================ */
+function validieren(){
+  const ids = new Set(species.map(s=>s.id));
+  const issues = {
+    missing: [],        // fehlende Felder (???)
+    selfRefs:[],        // Selbst-Verweise
+    unknownIds:[],      // Verweise auf nicht existierende IDs
+    asymBonus:[],       // A BONUS B, aber B BONUS A fehlt
+    asymNeutral:[]      // A NEUTRAL B, aber B NEUTRAL A fehlt
+  };
+
+  for (const s of species){
+    // A) Fehlende Daten erkennen (??? in name, besucher, kontinente, biome)
+    const fehl = [];
+    if (!s.name || s.name==="???") fehl.push("name");
+    if (!s.besucher || s.besucher==="???") fehl.push("besucher");
+    if (!Array.isArray(s.kontinente) || s.kontinente.length===0 || s.kontinente.includes("???")) fehl.push("kontinente");
+    if (!Array.isArray(s.biome) || s.biome.length===0 || s.biome.includes("???")) fehl.push("biome");
+    if (fehl.length) issues.missing.push({id:s.id, fields:fehl});
+
+    // B) Asymmetrien / Unbekannte IDs / Selbst-Verweise
+    const listen = [
+      {kind:"BONUS",   arr:(s.interspezifisch_ids||[])},
+      {kind:"NEUTRAL", arr:(s.neutral_ids||[])}
+    ];
+    for (const {kind,arr} of listen){
+      for (const ziel of arr){
+        if (ziel===s.id) issues.selfRefs.push({id:s.id, kind});
+        if (!ids.has(ziel)) issues.unknownIds.push({id:s.id, kind, ziel});
+        const t = byId(ziel);
+        if (t){
+          if (kind==="BONUS"   && !(t.interspezifisch_ids||[]).includes(s.id)) issues.asymBonus.push({a:s.id,b:ziel});
+          if (kind==="NEUTRAL" && !(t.neutral_ids||[]).includes(s.id))          issues.asymNeutral.push({a:s.id,b:ziel});
+        }
+      }
+    }
+  }
+  return issues;
+}
+
+function ausgabeIssues(issues){
+  const out=[];
+  // Zusammenfassung
+  out.push("— Daten-Prüfung —");
+  out.push(`Fehlende Felder (???): ${issues.missing.length}`);
+  out.push(`Selbst-Verweise: ${issues.selfRefs.length}`);
+  out.push(`Unbekannte IDs: ${issues.unknownIds.length}`);
+  out.push(`Asymmetrien BONUS: ${issues.asymBonus.length}`);
+  out.push(`Asymmetrien NEUTRAL: ${issues.asymNeutral.length}`);
+  out.push("");
+
+  // Detail: fehlende Felder
+  if (issues.missing.length){
+    out.push("Fehlende Felder nach Art (id: felder):");
+    for (const it of issues.missing){
+      out.push(` - ${it.id}: ${it.fields.join(", ")}`);
+    }
+    out.push("");
+  }
+
+  if (issues.selfRefs.length){
+    out.push("Selbst-Verweise:");
+    for(const it of issues.selfRefs) out.push(` - ${it.id} enthält sich in ${it.kind}`);
+    out.push("");
+  }
+  if (issues.unknownIds.length){
+    out.push("Unbekannte IDs:");
+    for(const it of issues.unknownIds) out.push(` - ${it.id} -> ${it.ziel} (${it.kind})`);
+    out.push("");
+  }
+  if (issues.asymBonus.length){
+    out.push("Asymmetrien BONUS:");
+    for(const it of issues.asymBonus) out.push(` - ${it.a} ↔ ${it.b}`);
+    out.push("");
+  }
+  if (issues.asymNeutral.length){
+    out.push("Asymmetrien NEUTRAL:");
+    for(const it of issues.asymNeutral) out.push(` - ${it.a} ↔ ${it.b}`);
+  }
+
+  if(!issues.missing.length && !issues.selfRefs.length && !issues.unknownIds.length && !issues.asymBonus.length && !issues.asymNeutral.length){
+    return "Keine Probleme gefunden. ✅";
+  }
+  return out.join("\n");
+}
+
+$("#btnCheck").addEventListener("click", ()=>{
+  const issues = validieren();
+  $("#validation").textContent = ausgabeIssues(issues);
+});
+
+// Auto-Sync-Helfer: fügt die fehlende Rückverknüpfung ein
+function autoSync(kind){
+  const issues = validieren();
+  const liste = kind==="BONUS" ? issues.asymBonus : issues.asymNeutral;
+  let added=0;
+  for(const {a,b} of liste){
+    const A = byId(a), B = byId(b); if(!A||!B) continue;
+    if(kind==="BONUS"){
+      (B.interspezifisch_ids ||= []);
+      if(!B.interspezifisch_ids.includes(a)){ B.interspezifisch_ids.push(a); added++; }
+    }else{
+      (B.neutral_ids ||= []);
+      if(!B.neutral_ids.includes(a)){ B.neutral_ids.push(a); added++; }
+    }
+  }
+  renderTabelle();
+  $("#validation").textContent = `Auto-Sync ${kind}: ${added} Gegen-Einträge ergänzt.`;
+}
+$("#btnSyncBonus").addEventListener("click", ()=>autoSync("BONUS"));
+$("#btnSyncNeutral").addEventListener("click", ()=>autoSync("NEUTRAL"));
+
+/* ============================================================
+   7) Rechner: größte Gruppe inkl. Starttier
+   ============================================================ */
+function graphBauen(list){
+  const kanten = new Map(list.map(s=>[s.id,new Set()]));
+  const gewicht = new Map();
+  const key = (a,b)=> a<b ? `${a}|${b}` : `${b}|${a}`;
+  for(let i=0;i<list.length;i++){
+    for(let j=i+1;j<list.length;j++){
+      const A=list[i], B=list[j];
+      const cls = paarKlasse(A,B);
+      if(cls!=="DENY"){
+        kanten.get(A.id).add(B.id);
+        kanten.get(B.id).add(A.id);
+        gewicht.set(key(A.id,B.id), cls==="BONUS"?1:0); // BONUS-Kanten höher werten
+      }
+    }
+  }
+  return {kanten,gewicht};
+}
+
+function maxKliqueMitSeed(kanten, gewicht, seed){
+  let best = new Set([seed]); let bestW=-1; const N=v=>kanten.get(v)||new Set();
+  function kliqueGewicht(set){
+    const a=[...set]; let w=0;
+    for(let i=0;i<a.length;i++){
+      for(let j=i+1;j<a.length;j++){
+        const k=a[i]<a[j]?`${a[i]}|${a[j]}`:`${a[j]}|${a[i]}`;
+        w+= (gewicht.get(k)||0);
+      }
+    }
+    return w;
+  }
+  function bronk(R,P,X){
+    if(P.size===0&&X.size===0){
+      const w=kliqueGewicht(R);
+      if(R.size>best.size||(R.size===best.size&&w>bestW)){ best=new Set(R); bestW=w;}
+      return;
+    }
+    const union=new Set([...P,...X]);
+    const pivot=union.values().next().value;
+    const Pminus=new Set([...P].filter(v=>!N(pivot)?.has(v)));
+    for(const v of Pminus){
+      const Nv=N(v);
+      bronk(new Set([...R,v]), new Set([...P].filter(x=>Nv.has(x))), new Set([...X].filter(x=>Nv.has(x))));
+      P.delete(v); X.add(v);
+    }
+  }
+  bronk(new Set([seed]), new Set(N(seed)), new Set());
+  return [...best];
+}
+
+function berechneGroesste(){
+  const seedId = $("#seed").value; if(!seedId){ $("#result").textContent = "Bitte Starttier wählen."; return; }
+  let basis = filterAnwenden(species);
+  const modus = $("#mode").value;
+  if(modus==="begehbar")         basis = basis.filter(istBegehbar);
+  else if(modus==="interaktion") basis = basis.filter(hatInteraktion);
+  if(!basis.some(s=>s.id===seedId)){ $("#result").textContent = "Starttier ist durch Filter/Modus ausgeschlossen."; return; }
+  const {kanten,gewicht} = graphBauen(basis);
+  const klique = maxKliqueMitSeed(kanten,gewicht,seedId);
+  const namen = klique.map(id=>byId(id)?.name||id);
+  const {kont,bio} = getFilter();
+  $("#result").textContent =
+    `Modus: ${modus}\nFilter: Kontinente=[${joinList(kont)}], Biome=[${joinList(bio)}]\n`+
+    `Starttier: ${byId(seedId)?.name||seedId} (${seedId})\n`+
+    `Größte Gruppe (${klique.length}):\n- ${namen.join(', ')}`;
+}
+
+/* ============================================================
+   8) Startdaten automatisch aus species.json laden
+   ============================================================ */
+(async function initFromFile(){
+  try {
+    const response = await fetch("species.json"); // gleiche Ordner wie index.html
+    if (!response.ok) throw new Error("Datei nicht gefunden");
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error("species.json muss ein Array enthalten");
+    species = data;
+    filterOptionsBefuellen();
+    renderTabelle();
+    console.log("species.json automatisch geladen ✓");
+  } catch (err) {
+    console.warn("Fehler beim automatischen Laden:", err.message);
+    // Falls species.json fehlt → Seite startet leer
+    species = [];
+  }
+})();
+
+// Buttons
+$("#btnCompute").addEventListener("click", berechneGroesste);
+</script>
+</body>
+</html>

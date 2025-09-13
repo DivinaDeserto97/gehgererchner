@@ -1,0 +1,458 @@
+[
+  {
+    "id": "abgottschlange",
+    "name": "Abgottschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch","grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },{
+    "id": "afrikanischer_leopard",
+    "name": "Afrikanischer Leopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch","grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },{
+    "id": "afrikanischer_elefant",
+    "name": "Afrikanischer Elefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste","grasland","feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "mantelpavian"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "afrikanischer_strauß",
+    "name": "Afrikanischer Strauß",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland","wüste"
+    ],
+    "interspezifisch_ids": [
+      "breitmaulnashorn","mendesantilope","netzgiraffe","rappenantilope","schwartzbüffel","somali-wildesel","springbock","steppenzebra","streifengnu","säbelantilope","tomsen-gazelle","warzenschwein","weisnacken-moorantilope","weissschwanzgnu"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "afrikanischer_wildhund",
+    "name": "Afrikanischer Wildhund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland","wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },{
+    "id": "Aldabra-Riesenschildkröte",
+    "name": "Aldabra-Riesenschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },{
+    "id": "alpaka",
+    "name": "Alpaka",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "gemäßigt","grasland","taiga"
+    ],
+    "interspezifisch_ids": [
+      "capybara","hill-radnor-schaf","lama","nandu"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "alpensteinbock",
+    "name": "Alpensteinbock",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+
+    ],
+    "neutral_ids": []
+  },{
+    "id": "amerikanischer_biber",
+    "name": "Amerikanischer Biber",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga","gemäßigt","grasland","feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "streifenskunk","waschbär"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "amerikanischer_bison",
+    "name": "Amerikanischer Bison",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland","taiga"
+    ],
+    "interspezifisch_ids": [
+      "dickhornschaf","gabelbock","halsbandpekari","schwarzschwanz-präriehund"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "amerikanischer_standard_esel",
+    "name": "Amerikanischer Standard Esel",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemäßigt","grasland","wüste"
+    ],
+    "interspezifisch_ids": [
+      "hill-radnor-schaf"
+    ],
+    "neutral_ids": []
+  },{
+    "id": "amurleopard",
+    "name": "Amurleopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga","gemäßigt"
+    ],
+    "interspezifisch_ids": [
+
+    ],
+    "neutral_ids": []
+  },{
+    "id": "australische-großschabe",
+    "name": "Australische Großschabe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemäßigt"
+    ],
+    "interspezifisch_ids": [
+
+    ],
+    "neutral_ids": []
+  },{
+    "id": "axolotl",
+    "name": "Axolotl",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet","wüste"
+    ],
+    "interspezifisch_ids": [
+
+    ],
+    "neutral_ids": []
+  },{
+    "id": "bartaffe",
+    "name": "Bartaffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+
+    ],
+    "neutral_ids": []
+  }
+]
+/*
+Blauer Pfau
+Bongo
+Bonobo
+Borneo-Orang-Utan
+Brasilianische Riesenvogelspinne
+Brasilianische Wanderspinne
+Brasilianischer Riesenläufer
+Chinesisches Schuppentier
+Echte Achatschnecke
+Erdferkel
+Flusspferd
+Gabelbock
+Galapagos-Riesenschildkröte
+Gangesgavial
+Gelbe Anakonda
+Gepard
+Gila-Krustenechse
+Goliath-Vogelspinne
+Goliathfrosch
+Goliathkäfer
+Grizzlybär
+Großer Panda
+Grüner Inselleguan
+Grüner Leguan
+Haariger Wüstenskorpion
+Halsbandpekari (anlässlich des vierjährigen Release-Jubiläums)
+Indischer Elefant
+Indischer Riesenskorpion
+Isabellbär
+Japanmakak
+Kaffernbüffel
+Katta
+Kleiner Panda
+Komodowaran (nur Deluxe Edition)
+Königstiger
+Lehmanns Pfeilgiftfrosch
+Leistenkrokodil
+Malabar-Rose (hinzugefügt mit Update 1.20)
+Mandrill
+Mexikanische Rotknie-Vogelspinne
+Mittelamerikanischer Tapir
+Netzgiraffe
+Nilwaran
+Nyala
+Okapi
+Östliche Braunschlange
+Panzernashorn
+Puffotter
+Rappenantilope
+Riesenbockkäfer
+Rosaflamingo
+Roter Vari
+Rothirsch (anlässlich des dreijährigen Release-Jubiläums)
+Schneeleopard
+Schrecklicher Pfeilgiftfrosch
+Schwarzweißer Vari (anlässlich des zweijährigen Release-Jubiläums)
+Sibirischer Tiger
+Spießbock
+Springbock
+Steppenzebra
+Taiwanischer Schwarzbär
+Texas-Klapperschlange
+Thomson-Gazelle (nur Deluxe Edition)
+Timberwolf
+Todesotter
+Trampeltier
+Tüpfelhyäne
+Warzenschwein
+Weißschwanzgnu
+Westafrikanischer Löwe
+Westlicher Flachlandgorilla
+Westlicher Schimpanse
+Zwergflusspferd (nur Deluxe Edition)
+Erweiterungen
+Arctic Pack
+Am 17. Dezember 2019 erschien das Arctic Pack, das das Spiel um zwei neue Szenarien, über 200 neue Objekte und die folgenden vier Tierarten erweitert:
+
+Dall-Schaf
+Eisbär
+Polarwolf
+Rentier
+South America Pack
+Am 7. April 2020 erschien das South America Pack, das das Spiel um über 250 neue Objekte und die folgenden fünf Tierarten erweitert:
+
+Großer Ameisenbär
+Jaguar
+Lama
+Rotaugenlaubfrosch
+Weißschulter-Kapuzineraffe
+Australia Pack
+Am 25. August 2020 erschien das Australia Pack, das das Spiel um über 230 neue Objekte und die folgenden fünf Tierarten erweitert:
+
+Dingo
+Gemeiner Blauzungenskink
+Helmkasuar
+Koala
+Rotes Riesenkänguru
+Aquatic Pack
+Am 8. Dezember 2020 erschien das Aquatic Pack, das das Spiel um über 120 neue Objekte und die folgenden fünf Tierarten erweitert:
+
+Brauen-Glattstirnkaiman
+Diamantschildkröte
+Kegelrobbe
+Königspinguin
+Riesenotter
+Southeast Asia Animal Pack
+Am 30. März 2021 erschien das Southeast Asia Animal Pack, das sich hauptsächlich auf neue Tierspezies aus Südostasien konzentriert. Das Spiel wird um die folgenden acht Tierarten erweitert:
+
+Binturong
+Großes Wandelndes Blatt
+Malaysischer Tapir
+Nasenaffe
+Nebelparder
+Nordsulawesisches Babirusa
+Rothund
+Sonnenbär
+Africa Pack
+Am 22. Juni 2021 erschien das Africa Pack, das das Spiel um ein neues Szenario, über 180 neue Objekte und die folgenden fünf Tierarten erweitert:
+
+Breitmaulnashorn
+Brillenpinguin
+Erdmännchen
+Fennek
+Heiliger Pillendreher
+North America Animal Pack
+Am 4. Oktober 2021 erschien das North America Animal Pack, das sich hauptsächlich auf neue Tierspezies aus Nordamerika konzentriert. Das Spiel wird um die folgenden acht Tierarten erweitert:
+
+Elch
+Kalifornischer Seelöwe
+Mississippi-Alligator
+Nordamerikanischer Ochsenfrosch
+Polarfuchs
+Puma
+Schwarzschwanz-Präriehund
+Europe Pack
+Am 14. Dezember 2021 erschien das Europe Pack, das das Spiel um über 250 neue Objekte und die folgenden fünf Tierarten erweitert:
+
+
+Damhirsch
+Eurasischer Luchs
+Europäischer Dachs
+Feuersalamander
+Wetlands Animal Pack
+Am 12. April 2022 erschien das Wetlands Animal Pack, das das Spiel um acht Tierarten erweitert, die vorzugsweise in Feuchtgebieten heimisch sind:
+
+Capybara
+Donau-Kammmolch
+Krokodilkaiman
+Mandschurenkranich
+Schnabeltier
+Wasserbüffel
+Weißnacken-Moorantilope
+Zwergotter
+Conservation Pack
+Am 21. Juni 2022 erschien das Conservation Pack, welches das Spiel um 150 neue Objekte und fünf Tierarten erweitert, die weltweit durch Arterhaltung in Zoos vertreten sind:
+
+Przewalski-Pferd
+Säbelantilope
+Siamang
+Twilight Pack
+Am 18. Oktober 2022 erschien das Twilight Pack, welches das Spiel um neue Objekte rund um das Thema Halloween und fünf Tierarten erweitert, die überwiegend nachtaktiv sind:
+
+Nacktnasenwombat
+Nilflughund
+Rotfuchs
+Streifenskunk
+Waschbär
+Grasslands Animal Pack
+Am 13. Dezember 2022 erschien das Grasslands Animal Pack, welches das Spiel um acht Tierarten erweitert, die überwiegend in den Graslandschaften der Steppen und Prärien leben:
+
+Großer Emu
+Karakal
+Mähnenwolf
+Neunbinden-Gürteltier
+Rotnackenwallaby
+Schmetterlinge (darunter Blauer Morphofalter, Monarchfalter, Tagpfauenauge, Schwalbenschwanz und Schwefelfalter)
+Streifengnu
+Streifenhyäne
+Tropical Pack
+Am 4. April 2023 erschien das Tropical Pack, welches das Spiel um 200 neue Objekte und fünf Tierarten erweitert, die in den tropischen Regenwäldern aller Welt leben:
+
+Bindenwaran
+Braunkehl-Faultier
+Fossa
+Pinselohrschwein
+Weißhandgibbon
+Arid Animal Pack
+Am 20. Juni 2023 erschien das Arid Animal Pack, welches das Spiel um ein neues Szenario und acht Tierarten erweitert, die Gebiete mit aridem Klima bewohnen:
+
+Damagazelle
+Dromedar
+Mendesantilope
+Sandkatze
+Somali-Wildesel
+Spitzmaulnashorn
+Westafrikanisches Stachelschwein
+Wüsten-Hornviper
+Oceania Pack
+Am 19. September 2023 erschien das Oceania Pack, welches das Spiel um 200 neue Objekte, ein neues Szenario und fünf Tierarten erweitert, die hauptsächlich in und um Australien und Ozeanien beheimatet sind:
+
+Brillenflughund
+Nordstreifenkiwi
+Quokka
+Tasmanischer Teufel
+Zwergpinguin
+Eurasia Animal Pack
+Am 13. Dezember 2023 erschien das Eurasia Animal Pack, welches das Spiel um ein neues Szenario und acht Tierarten erweitert, die in Eurasien leben:
+
+Griechische Landschildkröte
+Höckerschwan
+Lippenbär
+Saiga
+Takin
+Vielfraß
+Wildschwein
+Wisent
+Barnyard Animal Pack
+Am 30. April 2024 erschien das Barnyard Animal Pack, welches das Spiel um ein neues Szenario und sieben Tierarten erweitert, die hauptsächlich auf einem Bauernhof zu finden sind:
+Hausziege
+Hill-Radnor-Schaf
+Hochlandrind
+Sussex-Huhn
+Tamworth-Schwein
+Zookeepers Animal Pack
+Am 15. Oktober 2024 erschien das Zookeepers Animal Pack, welches das Spiel um über 95 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert:
+
+Brillenbär
+Coquerel-Sifaka
+Kirk-Dikdik
+Mantelpavian
+Pallaskatze
+Schraubenziege
+Spornschildkröte
+Americas Animal Pack
+Am 15. April 2025 erschien das Americas Animal Pack, welches das Spiel um über 80 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert, die in Nord- und Südamerika leben:
+
+Dickhornschaf
+Kojote
+Kubaflamingo
+Nandu
+Ozelot
+Waldhund
+Weißkopfsaki
+Asia Animal Pack
+Am 25. Juni 2025 erschien das Asia Animal Pack, welches das Spiel um 100 neue Objekte, ein neues Szenario und die folgenden sieben Tierarten erweitert, die in Asien beheimatet sind:
+Borneo-Zwergelefant
+Davidshirsch
+Hirschziegenantilope
+Honigdachs
+Nilgauantilope
+Tanuki
+*/
