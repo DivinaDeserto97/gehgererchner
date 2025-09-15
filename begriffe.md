@@ -1,6 +1,6 @@
 ## 2) `begriffe.md`
 
-> **Bitte exakt diese Begriffe** verwenden. Groß-/Kleinschreibung beachten.
+> **Bitte exakt diese Begriffe** verwenden. Gross-/Kleinschreibung beachten.
 
 ### Pflichtfelder pro Tier
 
@@ -16,7 +16,7 @@
   * `Afrika`, `Asien`, `Europa`, `Nordamerika`, `Südamerika`, `Ozeanien`
 * `biome` – Liste der Biome (deutsch, klein):
 
-  * `tropisch`, `gemäßigt`, `wüste`, `taiga`, `tundra`, `grasland`, `feuchtgebiet`
+  * `tropisch`, `gemässigt`, `wüste`, `taiga`, `tundra`, `grasland`, `feuchtgebiet`
 * `interspezifisch_ids` – **BONUS**-Kombis: Array von **Tier‑IDs** (z. B. `["capybara", "llama"]`).
 * `neutral_ids` – **NEUTRAL**-Kombis: Array von **Tier‑IDs**.
 

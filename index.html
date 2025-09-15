@@ -74,7 +74,7 @@
       - id, name
       - besucher: "geschlossen" | "begehbar" | "begehbar+interaktion" | "???"
       - kontinente: Afrika, Asien, Europa, Nordamerika, Südamerika, Ozeanien, "???"
-      - biome: tropisch, gemäßigt, wüste, taiga, tundra, grasland, feuchtgebiet, "???"
+      - biome: tropisch, gemässigt, wüste, taiga, tundra, grasland, feuchtgebiet, "???"
       - interspezifisch_ids: BONUS (IDs)
       - neutral_ids: NEUTRAL (IDs)
     -->
@@ -173,7 +173,7 @@
       </table>
     </div>
 
-    <div class="section-title" style="margin-top:16px">Rechner: größte Gruppe (enthält Starttier)</div>
+    <div class="section-title" style="margin-top:16px">Rechner: grösste Gruppe (enthält Starttier)</div>
     <div class="row">
       <div>
         <label for="seed">Starttier auswählen</label>
@@ -189,7 +189,7 @@
       </div>
     </div>
     <div class="actions">
-      <button class="good" id="btnCompute">Größte Gruppe berechnen</button>
+      <button class="good" id="btnCompute">Grösste Gruppe berechnen</button>
     </div>
     <label>Ergebnis</label>
     <div id="result" class="result mono"></div>
@@ -523,7 +523,7 @@ $("#btnSyncBonus").addEventListener("click", ()=>autoSync("BONUS"));
 $("#btnSyncNeutral").addEventListener("click", ()=>autoSync("NEUTRAL"));
 
 /* ============================================================
-   7) Rechner: größte Gruppe inkl. Starttier
+   7) Rechner: grösste Gruppe inkl. Starttier
    ============================================================ */
 function graphBauen(list){
   const kanten = new Map(list.map(s=>[s.id,new Set()]));
@@ -588,7 +588,7 @@ function berechneGroesste(){
   $("#result").textContent =
     `Modus: ${modus}\nFilter: Kontinente=[${joinList(kont)}], Biome=[${joinList(bio)}]\n`+
     `Starttier: ${byId(seedId)?.name||seedId} (${seedId})\n`+
-    `Größte Gruppe (${klique.length}):\n- ${namen.join(', ')}`;
+    `Grösste Gruppe (${klique.length}):\n- ${namen.join(', ')}`;
 }
 
 /* ============================================================
