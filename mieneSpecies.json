@@ -1,0 +1,7415 @@
+[
+  {
+    "id": "abgottschlange",
+    "name": "Abgottschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "alpaka",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "afrikanischer_elefant",
+    "name": "Afrikanischer Elefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "mantelpavian"
+    ],
+    "neutral_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "afrikanischer_leopard",
+    "name": "Afrikanischer Leopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "afrikanischer_strauss",
+    "name": "Afrikanischer Strauss",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "breitmaulnashorn",
+      "mendesantilope",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "somali_wildesel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "afrikanischer_wildhund",
+    "name": "Afrikanischer Wildhund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "aldabra_riesenschildkröte",
+    "name": "Aldabra-Riesenschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "alpaka",
+    "name": "Alpaka",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "capybara",
+      "hill-radnor-schaf",
+      "lama",
+      "nandu"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "waldhund",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "alpensteinbock",
+    "name": "Alpensteinbock",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "elch",
+      "europäischer_dachs",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "rentier",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "amerikanischer_biber",
+    "name": "Amerikanischer Biber",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "streifenskunk",
+      "waschbär"
+    ],
+    "neutral_ids": [
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "dall_schaf",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "rentier",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "amerikanischer_bison",
+    "name": "Amerikanischer Bison",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "dickhornschaf",
+      "gabelbock",
+      "halsbandpekari",
+      "schwarzschwanz-präriehund"
+    ],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "dall_schaf",
+      "elch",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "rentier",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "amerikanischer_standard_esel",
+    "name": "Amerikanischer Standard Esel",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "hill-radnor-schaf"
+    ],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "axolotl",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "gila_krustenechse",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "amurleopard",
+    "name": "Amurleopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "australische_grossschabe",
+    "name": "Australische Grossschabe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "blauzungenskink",
+      "emu",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "rotnackenwallaby",
+      "schnabeltier",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "gila_krustenechse",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "schwarzschwanz_präriehund",
+      "texas_klapperschlange"
+    ]
+  },
+  {
+    "id": "bartaffe",
+    "name": "Bartaffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "siamang",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "bindenwaran",
+    "name": "Bindenwaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "binturong",
+    "name": "Binturong",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "malaysischer_tapir",
+      "sonnenbär",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "blauer_morphofalter",
+    "name": "Blauer Morphofalter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "monarchfalter",
+      "pachliopta_pandiyana",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wolkenloser_schwefel"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "blauer_pfau",
+    "name": "Blauer Pfau",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "blauzungenskink",
+    "name": "Blauzungenskink",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "brillenflughund",
+      "emu",
+      "helmkasuar",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "rotes_riesenkänguru",
+      "rotnackenwallaby",
+      "schnabeltier",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "bongo",
+    "name": "Bongo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "bonobo",
+    "name": "Bonobo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "borneo_orang_utan",
+    "name": "Borneo-Orang-Utan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "borneo_zwergelefant",
+      "malaysischer_tapir",
+      "siamang",
+      "weisshandgibbon",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "nasenaffe"
+    ]
+  },
+  {
+    "id": "borneo_zwergelefant",
+    "name": "Borneo-Zwergelefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "borneo_orang_utan",
+      "nasenaffe",
+      "zwergotter"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "brasilianische_riesenvogelspinne",
+    "name": "Brasilianische Riesenvogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "brasilianische_wanderspinne",
+    "name": "Brasilianische Wanderspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "brasilianischer_riesenläufer",
+    "name": "Brasilianischer Riesenläufer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "brauen_glattstirnkaiman",
+    "name": "Brauen-Glattstirnkaiman",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "braunkehl_faultier",
+    "name": "Braunkehl-Faultier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "breitmaulnashorn",
+    "name": "Breitmaulnashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "netzgiraffe",
+      "nyala",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "tomsen_gazelle",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "brillenbär",
+    "name": "Brillenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "tundra",
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "brillenflughund",
+    "name": "Brillenflughund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien",
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "blauzungenskink",
+      "chinesisches_schuppentier",
+      "emu",
+      "grosses_wandelndes_blatt",
+      "helmkasuar",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "schnabeltier",
+      "siamang",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "brillenpinguin",
+    "name": "Brillenpinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "capybara",
+    "name": "Capybara",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "alpaka",
+      "galapagos_riesenschildkröte",
+      "grosser_ameisenbär",
+      "halsbandpekari",
+      "lama",
+      "mittelamerikanischer_tapir",
+      "mähnenwolf",
+      "nandu",
+      "weissschulter_kapuzineraffe"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "chinesisches_schuppentier",
+    "name": "Chinesisches Schuppentier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "coquerel_sifaka",
+    "name": "Coquerel-Sifaka",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "kattas",
+      "roter_vari",
+      "schwarzweisser_vari"
+    ],
+    "neutral_ids": [
+      "fossa"
+    ]
+  },
+  {
+    "id": "dall_schaf",
+    "name": "Dall-Schaf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "rentier",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "damagazelle",
+    "name": "Damagazelle",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "dromedar_kamel_kamel",
+      "mendesantilope",
+      "sporenschildkröte",
+      "säbelantilope"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "damhirsch",
+    "name": "Damhirsch",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "hochlandrind",
+      "höckerschwan",
+      "rothirsch",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ],
+    "neutral_ids": [
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "rosaflamingo",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge"
+    ]
+  },
+  {
+    "id": "davidshirsch",
+    "name": "Davidshirsch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "takin"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "tanuki",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "diamantschildkröte",
+    "name": "Diamantschildkröte",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "elch",
+      "gabelbock",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "dickhornschaf",
+    "name": "Dickhornschaf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_bison",
+      "elch",
+      "gabelbock",
+      "rentier",
+      "schwarzschwanz-präriehund"
+    ],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "dall_schaf",
+      "gila_krustenechse",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "dingo",
+    "name": "Dingo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "donau_kammmolch",
+    "name": "Donau-Kammmolch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "damhirsch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "dromedar_kamel",
+    "name": "Dromedar Kamel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "damagazelle",
+      "mendesantilope",
+      "netzgiraffe",
+      "somali_wildesel",
+      "säbelantilope"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "binturong",
+      "blauer_pfau",
+      "breitmaulnashorn",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "echte_achatschnecke",
+      "elch",
+      "erdferkel",
+      "erdmännchen",
+      "europäischer_dachs",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "grosser_panda",
+      "heiliger_pillendreher",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kirk_dikdik",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "mantelpavian",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "nyala",
+      "pallaskatze",
+      "panzernashorn",
+      "pinselohrschwein",
+      "przewalski_pferd",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "schwarzbüffel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "thomson_gazelle",
+      "trampeltier",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "echte_achatschnecke",
+    "name": "Echte Achatschnecke",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "eisbär",
+    "name": "Eisbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra",
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "elch",
+    "name": "Elch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra",
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "dickhornschaf"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "dall_schaf",
+      "damhirsch",
+      "davidshirsch",
+      "diamantschildkröte",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "feuersalamander",
+      "gabelbock",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "halsbandpekari",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "kubaflamingo",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "texas_klapperschlange",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wisent",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "emu",
+    "name": "Emu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "quokka",
+      "rotes_riesenkänguru",
+      "rotnackenwallaby"
+    ],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "brillenflughund",
+      "helmkasuar",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "schnabeltier",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "erdferkel",
+    "name": "Erdferkel",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "erdmännchen"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "erdmännchen",
+    "name": "Erdmännchen",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "erdferkel"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "eurasischer_luchs",
+    "name": "Eurasischer Luchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "europäischer_dachs",
+    "name": "Europäischer Dachs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "alpensteinbock",
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "damhirsch",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "elch",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "hochlandrind",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "fennek",
+    "name": "Fennek",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "erdmännchen",
+      "heiliger_pillendreher",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "feuersalamander",
+    "name": "Feuersalamander",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "damhirsch",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "flusspferd",
+    "name": "Flusspferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "fossa",
+    "name": "Fossa",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "coquerel_sifaka",
+      "katta",
+      "roter_vari",
+      "schwarzweisser_vari"
+    ]
+  },
+  {
+    "id": "gabelbock",
+    "name": "Gabelbock",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "taiga",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_bison",
+      "dickhornschaf"
+    ],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "dall_schaf",
+      "diamantschildkröte",
+      "elch",
+      "gila_krustenechse",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "rentier",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "galapagos_riesenschildkröte",
+    "name": "Galapagos-Riesenschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "capybara"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "gangesgavial",
+    "name": "Gangesgavial",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gelbe_anakonda",
+    "name": "Gelbe Anakonda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "gepard",
+    "name": "Gepard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "gila_krustenechse",
+    "name": "Gila-Krustenechse",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "dickhornschaf",
+      "gabelbock",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "schwarzschwanz_präriehund",
+      "texas_klapperschlange"
+    ]
+  },
+  {
+    "id": "goliath_vogelspinne",
+    "name": "Goliath-Vogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "goliathfrosch",
+    "name": "Goliathfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "flusspferd",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "goliathkäfer",
+    "name": "Goliathkäfer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "griechische_landschildkröte",
+    "name": "Griechische Landschildkröte",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "damhirsch",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "grizzlybär",
+    "name": "Grizzlybär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "grosser_ameisenbär",
+    "name": "Grosser Ameisenbär",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "capybara",
+      "halsbandpekari",
+      "mittelamerikanischer_tapir",
+      "mähnenwolf",
+      "weissschulter_kapuzineraffe"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "grosser_panda",
+    "name": "Grosser Panda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "grosses_wandelndes_blatt",
+    "name": "Grosses Wandelndes Blatt",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "siamang",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "grüner_inselleguan",
+    "name": "Grüner Inselleguan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "grüner_leguan",
+    "name": "Grüner Leguan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "haariger_wüstenskorpion",
+    "name": "Haariger Wüstenskorpion",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "dickhornschaf",
+      "gabelbock",
+      "gila_krustenechse",
+      "halsbandpekari",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "schwarzschwanz_präriehund",
+      "texas_klapperschlange"
+    ]
+  },
+  {
+    "id": "halsbandpekari",
+    "name": "Halsbandpekari",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_bison",
+      "capybara",
+      "grosser_ameisenbär",
+      "lama",
+      "weissschulter_kapuzineraffe"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "gila_krustenechse",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "haariger_wüstenskorpion",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "hausziege",
+    "name": "Hausziege",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "hill-radnor-schaf",
+      "hochlandrind"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "damhirsch",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "heiliger_pillendreher",
+      "höckerschwan",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "heiliger_pillendreher",
+    "name": "Heiliger Pillendreher",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "erdmännchen",
+      "fennek",
+      "hausziege",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "przewalski_pferd",
+      "saiga",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "trampeltier",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "helmkasuar",
+    "name": "Helmkasuar",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien",
+      "Südostasien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "blauzungenskink",
+      "brillenflughund",
+      "emu",
+      "monarchfalter",
+      "schnabeltier"
+    ]
+  },
+  {
+    "id": "hill_radnor_schaf",
+    "name": "Hill-Radnor-Schaf",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "alpaka",
+      "amerikanischer_standard_esel",
+      "hausziege",
+      "hochlandrind"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "damhirsch",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "höckerschwan",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "hirschziegenantilope",
+    "name": "Hirschziegenantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "indischer_elefant",
+      "nilgauantilope",
+      "panzernashorn",
+      "wilder_wasserbüffel"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "grosses_wandelndes_blatt",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "weisshandgibbon",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "hochlandrind",
+    "name": "Hochlandrind",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "hausziege",
+      "hill-radnor-schaf",
+      "rothirsch"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "höckerschwan",
+      "rentier",
+      "rosaflamingo",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "honigdachs",
+    "name": "Honigdachs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "höckerschwan",
+    "name": "Höckerschwan",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "rothirsch",
+      "wildschwein",
+      "wisent"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "trampeltier",
+      "wild_wasserbüffel"
+    ]
+  },
+  {
+    "id": "indischer_elefant",
+    "name": "Indischer Elefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "hirschziegenantilope",
+      "malaysischer_tapir",
+      "nasenaffe",
+      "nilgauantilope"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "höckerschwan",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "indischer_riesenskorpion",
+    "name": "Indischer Riesenskorpion",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "siamang",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "isabellbär",
+    "name": "Isabellbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika",
+      "Nordamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "japanmakak",
+    "name": "Japanmakak",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "mandschurenkranich"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "kalifornischer_seelöwe",
+    "name": "Kalifornischer Seelöwe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "karakal",
+    "name": "Karakal",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "katta",
+    "name": "Katta",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "coquerel_sifaka",
+      "roter_vari",
+      "schwarzweisser_vari"
+    ],
+    "neutral_ids": [
+      "fossa"
+    ]
+  },
+  {
+    "id": "kegelrobbe",
+    "name": "Kegelrobbe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kirk_dikdik",
+    "name": "Kirk-Dikdik",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "kleiner_panda",
+    "name": "Kleiner Panda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "rotes_riesenkänguru"
+    ],
+    "neutral_ids": [
+      "nacktnasenwombat"
+    ]
+  },
+  {
+    "id": "kojote",
+    "name": "Kojote",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "wüste",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "komodowaran",
+    "name": "Komodowaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "krokodilkaiman",
+    "name": "Krokodilkaiman",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "kubaflamingo",
+    "name": "Kubaflamingo",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "königspinguin",
+    "name": "Königspinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Antarktis",
+      "Südamerika",
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "zwergpinguin"
+    ]
+  },
+  {
+    "id": "königstiger",
+    "name": "Königstiger",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "lama",
+    "name": "Lama",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "alpaka",
+      "capybara",
+      "halsbandpekari",
+      "nandu"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "grüner_leguan",
+      "kubaflamingo",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "waldhund",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "lehmanns_pfeilgiftfrosch",
+    "name": "Lehmanns Pfeilgiftfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "leistenkrokodil",
+    "name": "Leistenkrokodil",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien",
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "lippenbär",
+    "name": "Lippenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "malaysischer_tapir",
+    "name": "Malaysischer Tapir",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "binturong",
+      "borneo_orang_utan",
+      "indischer_elefant",
+      "nasenaffe",
+      "wilder_wasserbüffel",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "weisshandgibbon",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "mandrill",
+    "name": "Mandrill",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "mandschurenkranich",
+    "name": "Mandschurenkranich",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra",
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "japanmakak"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "mantelpavian",
+    "name": "Mantelpavian",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_elefant"
+    ],
+    "neutral_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "mendesantilope",
+    "name": "Mendesantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "somali_wildesel"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "erdmännchen",
+      "fennek",
+      "heiliger_pillendreher",
+      "mantelpavian",
+      "nilflughund",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "mexikanische_rotknie_vogelspinne",
+    "name": "Mexikanische Rotknie-Vogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "wüste",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mittelamerikanischer_tapir",
+      "neunbinden_gürteltier",
+      "rotaugenlaubfrosch",
+      "texas_klapperschlange",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "mississippi_alligator",
+    "name": "Mississippi-Alligator",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "mittelamerikanischer_tapir",
+    "name": "Mittelamerikanischer Tapir",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "capybara",
+      "grosser_ameisenbär",
+      "weissschulter_kapuzineraffe"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "monarchfalter",
+    "name": "Monarchfalter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Südamerika",
+      "Asien",
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "blauer_morphofalter",
+      "pachliopta_pandiyana",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wolkenloser_schwefel"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "australische_grossschabe",
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "blauzungenskink",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "brillenflughund",
+      "capybara",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "dromedar_kamel",
+      "elch",
+      "emu",
+      "europäischer_dachs",
+      "gabelbock",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "helmkasuar",
+      "hirschziegenantilope",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kleiner_panda",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "mittelamerikanischer_tapir",
+      "nandu",
+      "neunbinden_gürteltier",
+      "nilflughund",
+      "nilgauantilope",
+      "nordamerikanischer_ochsenfrosch",
+      "nordlicher_streifenkiwi",
+      "nordsulawesisches_babirusa",
+      "ozelot",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "riesenbockkäfer",
+      "rosaflamingo",
+      "rotaugenlaubfrosch",
+      "rotes_riesenkänguru",
+      "rothirsch",
+      "rotnackenwallaby",
+      "saiga",
+      "schnabeltier",
+      "schrecklicher_pfeilgiftfrosch",
+      "schwarzschwanz_präriehund",
+      "siamang",
+      "streifenskunk",
+      "takin",
+      "tanuki",
+      "tasmanischer_teufel",
+      "texas_klapperschlange",
+      "trampeltier",
+      "waldhund",
+      "weisshandgibbon",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "mähnenwolf",
+    "name": "Mähnenwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "capybara",
+      "grosser_ameisenbär"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "nacktnasenwombat",
+    "name": "Nacktnasenwombat",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "koala",
+      "quokka"
+    ]
+  },
+  {
+    "id": "nandu",
+    "name": "Nandu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "alpaka",
+      "capybara",
+      "lama"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "waldhund",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "nasenaffe",
+    "name": "Nasenaffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "borneo_zwergelefant",
+      "indischer_elefant",
+      "malaysischer_tapir",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "borneo_orang_utan"
+    ]
+  },
+  {
+    "id": "nebelparder",
+    "name": "Nebelparder",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "netzgiraffe",
+    "name": "Netzgiraffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "dromedar_kamel",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "damagazelle",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "neunbinden_gürteltier",
+    "name": "Neunbinden-Gürteltier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "gila_krustenechse",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "nilflughund",
+    "name": "Nilflughund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "wüste",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "europäischer_dachs",
+      "fennek",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "grosses_wandelndes_blatt",
+      "heiliger_pillendreher",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "kirk_dikdik",
+      "malaysischer_tapir",
+      "mandrill",
+      "mantelpavian",
+      "mendesantilope",
+      "monarchfalter",
+      "netzgiraffe",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "nyala",
+      "okapi",
+      "pachliopta_pandiyana",
+      "panzernashorn",
+      "pinselohrschwein",
+      "przewalski_pferd",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "schwarzbüffel",
+      "siamang",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "tagpfauenauge",
+      "thomson_gazelle",
+      "trampeltier",
+      "warzenschwein",
+      "weisshandgibbon",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wüsten_hornviper",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "nilgauantilope",
+    "name": "Nilgauantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "panzernashorn",
+      "wilder_wasserbüffel"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "grosses_wandelndes_blatt",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "weisshandgibbon",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "nilwaran",
+    "name": "Nilwaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "nordamerikanischer_ochsenfrosch",
+    "name": "Nordamerikanischer Ochsenfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "diamantschildkröte",
+      "elch",
+      "gabelbock",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "nordsulawesisches_babirusa",
+    "name": "Nordsulawesisches Babirusa",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "pachliopta_pandiyana",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "nyala",
+    "name": "Nyala",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "breitmaulnashorn"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "okapi",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "nordlicher_streifenkiwi",
+    "name": "Nordlicher Streifenkiwi",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "emu",
+      "monarchfalter",
+      "rotnackenwallaby",
+      "schnabeltier",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "okapi",
+    "name": "Okapi",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "ozelot",
+    "name": "Ozelot",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "dickhornschaf",
+      "gabelbock",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "gila_krustenechse",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "pachliopta_pandiyana",
+    "name": "Pachliopta pandiyana",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "blauer_morphofalter",
+      "monarchfalter",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wolkenloser_schwefel"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "rosaflamingo",
+      "siamang",
+      "weisshandgibbon",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "pallaskatze",
+    "name": "Pallaskatze",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "panzernashorn",
+    "name": "Panzernashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "hirschziegenantilope",
+      "nilgauantilope",
+      "wilder_wasserbüffel",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nordsulawesisches_babirusa",
+      "pallaskatze",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "pinselohrschwein",
+    "name": "Pinselohrschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "bongo",
+      "bonobo",
+      "flusspferd",
+      "mandrill",
+      "okapi",
+      "schwartzbüffel",
+      "weissnacken_moorantilope",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "zwergflusspferd"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "polarfuchs",
+    "name": "Polarfuchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "tundra",
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "polarwolf",
+    "name": "Polarwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "przewalski_pferd",
+    "name": "Przewalski-Pferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "trampeltier"
+    ],
+    "neutral_ids": [
+      "blauer_pfau",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "heiliger_pillendreher",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "puffotter",
+    "name": "Puffotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "taiga",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "quokka",
+    "name": "Quokka",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "emu"
+    ],
+    "neutral_ids": [
+      "nacktnasenwombat"
+    ]
+  },
+  {
+    "id": "rappenantilope",
+    "name": "Rappenantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "rentier",
+    "name": "Rentier",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa",
+      "Nordamerika",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [
+      "dickhornschaf"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "dall_schaf",
+      "elch",
+      "europäischer_dachs",
+      "gabelbock",
+      "grosser_panda",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "japanmakak",
+      "kleiner_panda",
+      "mandschurenkranich",
+      "pallaskatze",
+      "rothirsch",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "streifenskunk",
+      "sussex_huhn",
+      "takin",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "riesenbockkäfer",
+    "name": "Riesenbockkäfer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "riesenotter",
+    "name": "Riesenotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rosaflamingo",
+    "name": "Rosaflamingo",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika",
+      "Asien",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "damagazelle",
+      "damhirsch",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "elch",
+      "erdferkel",
+      "erdmännchen",
+      "europäischer_dachs",
+      "feuersalamander",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "hochlandrind",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kirk_dikdik",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandrill",
+      "mandschurenkranich",
+      "mantelpavian",
+      "monarchfalter",
+      "netzgiraffe",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "nyala",
+      "okapi",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "pinselohrschwein",
+      "przewalski_pferd",
+      "rappenantilope",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "schwarzbüffel",
+      "siamang",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "sussex_huhn",
+      "säbelantilope",
+      "tagpfauenauge",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "thomson_gazelle",
+      "trampeltier",
+      "warzenschwein",
+      "weisshandgibbon",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wisent",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "rotaugenlaubfrosch",
+    "name": "Rotaugenlaubfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Mittelamerika",
+      "Nordamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "roter_vari",
+    "name": "Roter Vari",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "coquerel_sifaka",
+      "katta",
+      "schwarzweisser_vari"
+    ],
+    "neutral_ids": [
+      "fossa"
+    ]
+  },
+  {
+    "id": "rotes_riesenkänguru",
+    "name": "Rotes Riesenkänguru",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "emu",
+      "koala",
+      "rotnackenwallaby"
+    ],
+    "neutral_ids": [
+      "blauzungenskink",
+      "monarchfalter",
+      "schnabeltier",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "rotfuchs",
+    "name": "Rotfuchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "taiga",
+      "grasland",
+      "wüste",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rothirsch",
+    "name": "Rothirsch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "hochlandrind",
+      "höckerschwan",
+      "tamworth_schwein",
+      "wildschwein",
+      "wisent"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "alpensteinbock",
+      "binturong",
+      "blauer_pfau",
+      "breitmaulnashorn",
+      "chinesisches_schuppentier",
+      "damagazelle",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "elch",
+      "erdferkel",
+      "erdmännchen",
+      "europäischer_dachs",
+      "feuersalamander",
+      "flusspferd",
+      "goliathkäfer",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "japanmakak",
+      "kirk_dikdik",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "mantelpavian",
+      "monarchfalter",
+      "netzgiraffe",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "nyala",
+      "pallaskatze",
+      "panzernashorn",
+      "pinselohrschwein",
+      "przewalski_pferd",
+      "rappenantilope",
+      "rentier",
+      "rosaflamingo",
+      "saiga",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "sussex_huhn",
+      "säbelantilope",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "thomson_gazelle",
+      "trampeltier",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wild_wasserbüffel"
+    ]
+  },
+  {
+    "id": "rothund",
+    "name": "Rothund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "rotnackenwallaby",
+    "name": "Rotnackenwallaby",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "emu",
+      "rotes_riesenkänguru"
+    ],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "schnabeltier",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "saiga",
+    "name": "Saiga",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "blauer_pfau",
+      "dromedar_kamel",
+      "europäischer_dachs",
+      "heiliger_pillendreher",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "sandkatze",
+    "name": "Sandkatze",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schnabeltier",
+    "name": "Schnabeltier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "brillenflughund",
+      "emu",
+      "helmkasuar",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "rotes_riesenkänguru",
+      "rotnackenwallaby",
+      "tasmanischer_teufel",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "schneeleopard",
+    "name": "Schneeleopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "schraubenziege",
+    "name": "Schraubenziege",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [
+      "takin"
+    ],
+    "neutral_ids": [
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "japanmakak",
+      "kleiner_panda",
+      "mandschurenkranich",
+      "pallaskatze",
+      "rentier",
+      "rothirsch",
+      "schwalbenschwanz",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "schrecklicher_pfeilgiftfrosch",
+    "name": "Schrecklicher Pfeilgiftfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "waldhund",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "schwalbenschwanz",
+    "name": "Schwalbenschwanz",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [
+      "blauer_morphofalter",
+      "monarchfalter",
+      "pachliopta_pandiyana",
+      "tagpfauenauge",
+      "wolkenloser_schwefel"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "dall_schaf",
+      "damhirsch",
+      "davidshirsch",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "gabelbock",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "halsbandpekari",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "hochlandrind",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "kubaflamingo",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "neunbinden_gürteltier",
+      "nilflughund",
+      "nilgauantilope",
+      "nordamerikanischer_ochsenfrosch",
+      "nordsulawesisches_babirusa",
+      "ozelot",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schraubenziege",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "sussex_huhn",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "texas_klapperschlange",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "schwarzbüffel",
+    "name": "Schwarzbüffel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "pinselohrschwein",
+      "rappenantilope",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "thomson_gazelle",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "schwarzschwanz_präriehund",
+    "name": "Schwarzschwanz-Präriehund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_bison",
+      "dickhornschaf",
+      "streifenskunk"
+    ],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "gabelbock",
+      "gila_krustenechse",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "schwalbenschwanz",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "schwarzweisser_vari",
+    "name": "Schwarzweisser Vari",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "coquerel_sifaka",
+      "katta",
+      "roter_vari"
+    ],
+    "neutral_ids": [
+      "fossa"
+    ]
+  },
+  {
+    "id": "siamang",
+    "name": "Siamang",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "borneo_orang_utan",
+      "weisshandgibbon"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "sibirischer_tiger",
+    "name": "Sibirischer Tiger",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "somali_wildesel",
+    "name": "Somali-Wildesel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "dromedar_kamel",
+      "mendesantilope"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "erdmännchen",
+      "fennek",
+      "heiliger_pillendreher",
+      "mantelpavian",
+      "nilflughund",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "sonnenbär",
+    "name": "Sonnenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "binturong"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "spiessbock",
+    "name": "Spiessbock",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "erdmännchen",
+      "fennek",
+      "heiliger_pillendreher",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "somali_wildesel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "spitzmaulnashorn",
+    "name": "Spitzmaulnashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "spornschildkröte",
+    "name": "Spornschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "damagazelle"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "springbock",
+    "name": "Springbock",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "steppenzebra",
+      "streifengnu",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "steppenzebra",
+    "name": "Steppenzebra",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "streifengnu",
+      "säbelantilope",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "streifengnu",
+    "name": "Streifengnu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "tomsen_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "streifenhyäne",
+    "name": "Streifenhyäne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "streifenskunk",
+    "name": "Streifenskunk",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_biber",
+      "schwarzschwanz-präriehund",
+      "waschbär"
+    ],
+    "neutral_ids": [
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "dall_schaf",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "halsbandpekari",
+      "kubaflamingo",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "rentier",
+      "schwalbenschwanz",
+      "texas_klapperschlange",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "sussex_huhn",
+    "name": "Sussex-Huhn",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "tamworth_schwein"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "damhirsch",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "säbelantilope",
+    "name": "Säbelantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "netzgiraffe",
+      "schwartzbüffel",
+      "steppenzebra"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "breitmaulnashorn",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "streifengnu",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "tagpfauenauge",
+    "name": "Tagpfauenauge",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "blauer_morphofalter",
+      "monarchfalter",
+      "pachliopta_pandiyana",
+      "schwalbenschwanz",
+      "wolkenloser_schwefel"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "damhirsch",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "hochlandrind",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pallaskatze",
+      "panzernashorn",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "sussex_huhn",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "trampeltier",
+      "wild_wasserbüffel",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "taiwanischer_schwarzbär",
+    "name": "Taiwanischer Schwarzbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "taiga"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "takin",
+    "name": "Takin",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "davidshirsch",
+      "schraubenziege"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rentier",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "tanuki",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "tamworth_schwein",
+    "name": "Tamworth-Schwein",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "rothirsch",
+      "sussex_huhn"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "höckerschwan",
+      "rentier",
+      "rosaflamingo",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "wildschwein",
+      "wisent"
+    ]
+  },
+  {
+    "id": "tanuki",
+    "name": "Tanuki",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "trampeltier",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "tasmanischer_teufel",
+    "name": "Tasmanischer Teufel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "emu",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "rotnackenwallaby",
+      "schnabeltier",
+      "östliche_braunschlange"
+    ]
+  },
+  {
+    "id": "texas_klapperschlange",
+    "name": "Texas-Klapperschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "axolotl",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "gila_krustenechse",
+      "grüner_leguan",
+      "haariger_wüstenskorpion",
+      "halsbandpekari",
+      "kubaflamingo",
+      "mexikanische_rotknie_vogelspinne",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "schwalbenschwanz",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "thomson_gazelle",
+    "name": "Thomson-Gazelle",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "warzenschwein",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "timberwolf",
+    "name": "Timberwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "todesotter",
+    "name": "Todesotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "trampeltier",
+    "name": "Trampeltier",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "przewalski_pferd"
+    ],
+    "neutral_ids": [
+      "binturong",
+      "blauer_pfau",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosser_panda",
+      "heiliger_pillendreher",
+      "höckerschwan",
+      "indischer_elefant",
+      "japanmakak",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "pallaskatze",
+      "panzernashorn",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "tagpfauenauge",
+      "takin",
+      "tanuki",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "tüpfelhyäne",
+    "name": "Tüpfelhyäne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "vielfrass",
+    "name": "Vielfrass",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "waldhund",
+    "name": "Waldhund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch",
+      "feuchtgebiet"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "weisskopfsaki",
+      "weissschulter_kapuzineraffe",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "warzenschwein",
+    "name": "Warzenschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "tomsen_gazelle",
+      "weissschwanzgnu"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mandrill",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "waschbär",
+    "name": "Waschbär",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "taiga",
+      "grasland",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "amerikanischer_biber",
+      "streifenskunk"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "weisshandgibbon",
+    "name": "Weisshandgibbon",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "borneo_orang_utan",
+      "siamang",
+      "zwergotter"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "grosses_wandelndes_blatt",
+      "hirschziegenantilope",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "malaysischer_tapir",
+      "monarchfalter",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "rosaflamingo",
+      "wild_wasserbüffel",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "weisskopfsaki",
+    "name": "Weisskopfsaki",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "capybara",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lehmanns_pfeilgiftfrosch",
+      "mittelamerikanischer_tapir",
+      "monarchfalter",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "schrecklicher_pfeilgiftfrosch",
+      "waldhund",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "weissnacken_moorantilope",
+    "name": "Weissnacken-Moorantilope",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "netzgiraffe",
+      "pinselohrschwein",
+      "schwartzbüffel"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "weissschulter_kapuzineraffe",
+    "name": "Weissschulter-Kapuzineraffe",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "blauer_morphofalter",
+      "brasilianische_riesenvogelspinne",
+      "brasilianische_wanderspinne",
+      "brasilianischer_riesenläufer",
+      "braunkehl_faultier",
+      "galapagos_riesenschildkröte",
+      "gelbe_anakonda",
+      "goliath_vogelspinne",
+      "grüner_inselleguan",
+      "grüner_leguan",
+      "kubaflamingo",
+      "lama",
+      "lehmanns_pfeilgiftfrosch",
+      "mexikanische_rotknie_vogelspinne",
+      "monarchfalter",
+      "nandu",
+      "neunbinden_gürteltier",
+      "ozelot",
+      "riesenbockkäfer",
+      "rotaugenlaubfrosch",
+      "schrecklicher_pfeilgiftfrosch",
+      "texas_klapperschlange",
+      "waldhund",
+      "weisskopfsaki",
+      "wolkenloser_schwefel"
+    ]
+  },
+  {
+    "id": "weissschwanzgnu",
+    "name": "Weissschwanzgnu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "netzgiraffe",
+      "rappenantilope",
+      "schwartzbüffel",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "tomsen_gazelle",
+      "warzenschwein"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "flusspferd",
+      "goliathkäfer",
+      "kirk_dikdik",
+      "mantelpavian",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rosaflamingo",
+      "rothirsch",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "säbelantilope",
+      "weissnacken_moorantilope",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "westafrikanischer_löwe",
+    "name": "Westafrikanischer Löwe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  },
+  {
+    "id": "westafrikanisches_stachelschwein",
+    "name": "Westafrikanisches Stachelschwein",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "breitmaulnashorn",
+      "damagazelle",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "erdferkel",
+      "erdmännchen",
+      "fennek",
+      "flusspferd",
+      "goliathkäfer",
+      "heiliger_pillendreher",
+      "kirk_dikdik",
+      "mantelpavian",
+      "mendesantilope",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "pinselohrschwein",
+      "rappenantilope",
+      "rosaflamingo",
+      "rothirsch",
+      "schwarzbüffel",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "säbelantilope",
+      "thomson_gazelle",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "wildschwein",
+      "wüsten_hornviper"
+    ]
+  },
+  {
+    "id": "westlicher_flachlandgorilla",
+    "name": "Westlicher Flachlandgorilla",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_schimpanse",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "westlicher_schimpanse",
+    "name": "Westlicher Schimpanse",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "westlicher_flachlandgorilla",
+      "wildschwein",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "wild_wasserbüffel",
+    "name": "Wild Wasserbüffel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "hirschziegenantilope",
+      "malaysischer_tapir",
+      "nilgauantilope",
+      "panzernashorn"
+    ],
+    "neutral_ids": [
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "davidshirsch",
+      "dromedar_kamel",
+      "elch",
+      "europäischer_dachs",
+      "grosses_wandelndes_blatt",
+      "höckerschwan",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "mandschurenkranich",
+      "monarchfalter",
+      "nilflughund",
+      "nordsulawesisches_babirusa",
+      "pachliopta_pandiyana",
+      "przewalski_pferd",
+      "rosaflamingo",
+      "rothirsch",
+      "saiga",
+      "schwalbenschwanz",
+      "siamang",
+      "tagpfauenauge",
+      "weisshandgibbon",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "wildschwein",
+    "name": "Wildschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "wüste",
+      "taiga",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "höckerschwan",
+      "rothirsch",
+      "wisent"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "aldabra_riesenschildkröte",
+      "alpensteinbock",
+      "bartaffe",
+      "binturong",
+      "blauer_pfau",
+      "bongo",
+      "bonobo",
+      "breitmaulnashorn",
+      "brillenflughund",
+      "chinesisches_schuppentier",
+      "damagazelle",
+      "davidshirsch",
+      "donau_kammmolch",
+      "dromedar_kamel",
+      "echte_achatschnecke",
+      "elch",
+      "erdferkel",
+      "erdmännchen",
+      "europäischer_dachs",
+      "fennek",
+      "feuersalamander",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "griechische_landschildkröte",
+      "grosser_panda",
+      "grosses_wandelndes_blatt",
+      "hausziege",
+      "heiliger_pillendreher",
+      "hill_radnor_schaf",
+      "hirschziegenantilope",
+      "hochlandrind",
+      "indischer_elefant",
+      "indischer_riesenskorpion",
+      "japanmakak",
+      "kirk_dikdik",
+      "kleiner_panda",
+      "malaysischer_tapir",
+      "mandrill",
+      "mandschurenkranich",
+      "mantelpavian",
+      "mendesantilope",
+      "monarchfalter",
+      "netzgiraffe",
+      "nilflughund",
+      "nilgauantilope",
+      "nordsulawesisches_babirusa",
+      "nyala",
+      "okapi",
+      "pachliopta_pandiyana",
+      "pallaskatze",
+      "panzernashorn",
+      "pinselohrschwein",
+      "przewalski_pferd",
+      "rappenantilope",
+      "rentier",
+      "rosaflamingo",
+      "saiga",
+      "schraubenziege",
+      "schwalbenschwanz",
+      "schwarzbüffel",
+      "siamang",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "steppenzebra",
+      "streifengnu",
+      "sussex_huhn",
+      "säbelantilope",
+      "tagpfauenauge",
+      "takin",
+      "tamworth_schwein",
+      "tanuki",
+      "thomson_gazelle",
+      "trampeltier",
+      "warzenschwein",
+      "weisshandgibbon",
+      "weissnacken_moorantilope",
+      "weissschwanzgnu",
+      "westafrikanisches_stachelschwein",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wild_wasserbüffel",
+      "wüsten_hornviper",
+      "zwergflusspferd"
+    ]
+  },
+  {
+    "id": "wisent",
+    "name": "Wisent",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [
+      "damhirsch",
+      "höckerschwan",
+      "rothirsch",
+      "wildschwein"
+    ],
+    "neutral_ids": [
+      "alpensteinbock",
+      "donau_kammmolch",
+      "elch",
+      "europäischer_dachs",
+      "feuersalamander",
+      "griechische_landschildkröte",
+      "hausziege",
+      "hill_radnor_schaf",
+      "hochlandrind",
+      "rentier",
+      "rosaflamingo",
+      "schwalbenschwanz",
+      "sussex_huhn",
+      "tagpfauenauge",
+      "tamworth_schwein"
+    ]
+  },
+  {
+    "id": "wolkenloser_schwefel",
+    "name": "Wolkenloser Schwefel",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ],
+    "interspezifisch_ids": [
+      "blauer_morphofalter",
+      "monarchfalter",
+      "pachliopta_pandiyana",
+      "schwalbenschwanz",
+      "tagpfauenauge"
+    ],
+    "neutral_ids": [
+      "abgottschlange",
+      "alpaka",
+      "amerikanischer_biber",
+      "amerikanischer_bison",
+      "amerikanischer_standard_esel",
+      "capybara",
+      "dall_schaf",
+      "diamantschildkröte",
+      "dickhornschaf",
+      "elch",
+      "gabelbock",
+      "grüner_leguan",
+      "halsbandpekari",
+      "kubaflamingo",
+      "lama",
+      "mittelamerikanischer_tapir",
+      "nandu",
+      "neunbinden_gürteltier",
+      "nordamerikanischer_ochsenfrosch",
+      "ozelot",
+      "rentier",
+      "schwarzschwanz_präriehund",
+      "streifenskunk",
+      "texas_klapperschlange",
+      "waldhund",
+      "weissschulter_kapuzineraffe"
+    ]
+  },
+  {
+    "id": "wüsten_hornviper",
+    "name": "Wüsten-Hornviper",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "afrikanischer_strauss",
+      "damagazelle",
+      "dromedar_kamel",
+      "erdmännchen",
+      "fennek",
+      "heiliger_pillendreher",
+      "mantelpavian",
+      "mendesantilope",
+      "nilflughund",
+      "przewalski_pferd",
+      "saiga",
+      "somali_wildesel",
+      "spiessbock",
+      "spitzmaulnashorn",
+      "spornschildkröte",
+      "springbock",
+      "säbelantilope",
+      "trampeltier",
+      "westafrikanisches_stachelschwein",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "zwergflusspferd",
+    "name": "Zwergflusspferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ],
+    "interspezifisch_ids": [
+      "pinselohrschwein"
+    ],
+    "neutral_ids": [
+      "afrikanischer_elefant",
+      "aldabra_riesenschildkröte",
+      "bongo",
+      "bonobo",
+      "echte_achatschnecke",
+      "erdferkel",
+      "flusspferd",
+      "goliathfrosch",
+      "goliathkäfer",
+      "mandrill",
+      "netzgiraffe",
+      "nilflughund",
+      "nyala",
+      "okapi",
+      "rosaflamingo",
+      "schwarzbüffel",
+      "warzenschwein",
+      "weissnacken_moorantilope",
+      "westlicher_flachlandgorilla",
+      "westlicher_schimpanse",
+      "wildschwein"
+    ]
+  },
+  {
+    "id": "zwergotter",
+    "name": "Zwergotter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ],
+    "interspezifisch_ids": [
+      "binturong",
+      "borneo_orang_utan",
+      "borneo_zwergelefant",
+      "malaysischer_tapir",
+      "nasenaffe",
+      "panzernashorn",
+      "weisshandgibbon"
+    ],
+    "neutral_ids": []
+  },
+  {
+    "id": "zwergpinguin",
+    "name": "Zwergpinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "grasland"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "königspinguin"
+    ]
+  },
+  {
+    "id": "östliche_braunschlange",
+    "name": "Östliche Braunschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": [
+      "australische_grossschabe",
+      "blauzungenskink",
+      "emu",
+      "monarchfalter",
+      "nordlicher_streifenkiwi",
+      "rotes_riesenkänguru",
+      "rotnackenwallaby",
+      "schnabeltier",
+      "tasmanischer_teufel"
+    ]
+  },
+  {
+    "id": "test",
+    "name": "test",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ],
+    "interspezifisch_ids": [],
+    "neutral_ids": []
+  }
+]
