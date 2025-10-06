@@ -1,6 +1,7 @@
 [
   {
-    "id": "abgottschlange",
+    "id": 1,
+    "slug": "abgottschlange",
     "name": "Abgottschlange",
     "besucher": "geschlossen",
     "kontinente": [
@@ -9,12 +10,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "afrikanischer_elefant",
+    "id": 2,
+    "slug": "afrikanischer_elefant",
     "name": "Afrikanischer Elefant",
     "besucher": "geschlossen",
     "kontinente": [
@@ -24,14 +24,11 @@
       "wüste",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "mantelpavian"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "afrikanischer_leopard",
+    "id": 3,
+    "slug": "afrikanischer_leopard",
     "name": "Afrikanischer Leopard",
     "besucher": "geschlossen",
     "kontinente": [
@@ -40,12 +37,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "afrikanischer_strauss",
+    "id": 4,
+    "slug": "afrikanischer_strauss",
     "name": "Afrikanischer Strauss",
     "besucher": "geschlossen",
     "kontinente": [
@@ -54,27 +50,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "breitmaulnashorn",
-      "mendesantilope",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "somali_wildesel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "säbelantilope",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissnacken_moorantilope",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "afrikanischer_wildhund",
+    "id": 5,
+    "slug": "afrikanischer_wildhund",
     "name": "Afrikanischer Wildhund",
     "besucher": "geschlossen",
     "kontinente": [
@@ -83,12 +63,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "aldabra_riesenschildkröte",
+    "id": 6,
+    "slug": "aldabra_riesenschildkröte",
     "name": "Aldabra-Riesenschildkröte",
     "besucher": "begehbar",
     "kontinente": [
@@ -96,12 +75,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "alpaka",
+    "id": 7,
+    "slug": "alpaka",
     "name": "Alpaka",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -111,17 +89,11 @@
       "gemässigt",
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "capybara",
-      "hill-radnor-schaf",
-      "lama",
-      "nandu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "alpensteinbock",
+    "id": 8,
+    "slug": "alpensteinbock",
     "name": "Alpensteinbock",
     "besucher": "geschlossen",
     "kontinente": [
@@ -129,12 +101,11 @@
     ],
     "biome": [
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "amerikanischer_biber",
+    "id": 9,
+    "slug": "amerikanischer_biber",
     "name": "Amerikanischer Biber",
     "besucher": "begehbar",
     "kontinente": [
@@ -145,15 +116,11 @@
       "gemässigt",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "streifenskunk",
-      "waschbär"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "amerikanischer_bison",
+    "id": 10,
+    "slug": "amerikanischer_bison",
     "name": "Amerikanischer Bison",
     "besucher": "geschlossen",
     "kontinente": [
@@ -162,17 +129,11 @@
     "biome": [
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "dickhornschaf",
-      "gabelbock",
-      "halsbandpekari",
-      "schwarzschwanz-präriehund"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "amerikanischer_standard_esel",
+    "id": 11,
+    "slug": "amerikanischer_standard_esel",
     "name": "Amerikanischer Standard Esel",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -182,14 +143,11 @@
       "gemässigt",
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "hill-radnor-schaf"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "amurleopard",
+    "id": 12,
+    "slug": "amurleopard",
     "name": "Amurleopard",
     "besucher": "geschlossen",
     "kontinente": [
@@ -198,12 +156,11 @@
     "biome": [
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "australische_grossschabe",
+    "id": 13,
+    "slug": "australische_grossschabe",
     "name": "Australische Grossschabe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -211,12 +168,11 @@
     ],
     "biome": [
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "axolotl",
+    "id": 14,
+    "slug": "axolotl",
     "name": "Axolotl",
     "besucher": "geschlossen",
     "kontinente": [
@@ -225,12 +181,11 @@
     "biome": [
       "feuchtgebiet",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "bartaffe",
+    "id": 15,
+    "slug": "bartaffe",
     "name": "Bartaffe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -238,12 +193,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "bindenwaran",
+    "id": 16,
+    "slug": "bindenwaran",
     "name": "Bindenwaran",
     "besucher": "geschlossen",
     "kontinente": [
@@ -253,12 +207,11 @@
       "tropisch",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "binturong",
+    "id": 17,
+    "slug": "binturong",
     "name": "Binturong",
     "besucher": "begehbar",
     "kontinente": [
@@ -267,16 +220,11 @@
     "biome": [
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "malaysischer_tapir",
-      "sonnenbär",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "blauer_morphofalter",
+    "id": 18,
+    "slug": "blauer_morphofalter",
     "name": "Blauer Morphofalter",
     "besucher": "begehbar",
     "kontinente": [
@@ -285,18 +233,11 @@
     "biome": [
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "monarchfalter",
-      "pachliopta_pandiyana",
-      "schwalbenschwanz",
-      "tagpfauenauge",
-      "wolkenloser_schwefel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "blauer_pfau",
+    "id": 19,
+    "slug": "blauer_pfau",
     "name": "Blauer Pfau",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -306,12 +247,11 @@
       "gemässigt",
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "blauzungenskink",
+    "id": 20,
+    "slug": "blauzungenskink",
     "name": "Blauzungenskink",
     "besucher": "geschlossen",
     "kontinente": [
@@ -321,12 +261,11 @@
       "gemässigt",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "bongo",
+    "id": 21,
+    "slug": "bongo",
     "name": "Bongo",
     "besucher": "geschlossen",
     "kontinente": [
@@ -334,14 +273,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "bonobo",
+    "id": 22,
+    "slug": "bonobo",
     "name": "Bonobo",
     "besucher": "geschlossen",
     "kontinente": [
@@ -349,14 +285,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "borneo_orang_utan",
+    "id": 23,
+    "slug": "borneo_orang_utan",
     "name": "Borneo-Orang-Utan",
     "besucher": "geschlossen",
     "kontinente": [
@@ -364,18 +297,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "borneo_zwergelefant",
-      "malaysischer_tapir",
-      "siamang",
-      "weisshandgibbon",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "borneo_zwergelefant",
+    "id": 24,
+    "slug": "borneo_zwergelefant",
     "name": "Borneo-Zwergelefant",
     "besucher": "geschlossen",
     "kontinente": [
@@ -385,16 +311,11 @@
       "feuchtgebiet",
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "borneo_orang_utan",
-      "nasenaffe",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brasilianische_riesenvogelspinne",
+    "id": 25,
+    "slug": "brasilianische_riesenvogelspinne",
     "name": "Brasilianische Riesenvogelspinne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -402,12 +323,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brasilianische_wanderspinne",
+    "id": 26,
+    "slug": "brasilianische_wanderspinne",
     "name": "Brasilianische Wanderspinne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -415,12 +335,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brasilianischer_riesenläufer",
+    "id": 27,
+    "slug": "brasilianischer_riesenläufer",
     "name": "Brasilianischer Riesenläufer",
     "besucher": "geschlossen",
     "kontinente": [
@@ -428,12 +347,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brauen_glattstirnkaiman",
+    "id": 28,
+    "slug": "brauen_glattstirnkaiman",
     "name": "Brauen-Glattstirnkaiman",
     "besucher": "geschlossen",
     "kontinente": [
@@ -444,12 +362,11 @@
       "tropisch",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "braunkehl_faultier",
+    "id": 29,
+    "slug": "braunkehl_faultier",
     "name": "Braunkehl-Faultier",
     "besucher": "begehbar",
     "kontinente": [
@@ -457,12 +374,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "breitmaulnashorn",
+    "id": 30,
+    "slug": "breitmaulnashorn",
     "name": "Breitmaulnashorn",
     "besucher": "geschlossen",
     "kontinente": [
@@ -470,23 +386,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "netzgiraffe",
-      "nyala",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "tomsen_gazelle",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brillenbär",
+    "id": 31,
+    "slug": "brillenbär",
     "name": "Brillenbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -497,12 +401,11 @@
       "tundra",
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brillenflughund",
+    "id": 32,
+    "slug": "brillenflughund",
     "name": "Brillenflughund",
     "besucher": "begehbar",
     "kontinente": [
@@ -511,12 +414,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "brillenpinguin",
+    "id": 33,
+    "slug": "brillenpinguin",
     "name": "Brillenpinguin",
     "besucher": "begehbar",
     "kontinente": [
@@ -525,12 +427,11 @@
     "biome": [
       "feuchtgebiet",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "capybara",
+    "id": 34,
+    "slug": "capybara",
     "name": "Capybara",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -540,22 +441,11 @@
       "feuchtgebiet",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "alpaka",
-      "galapagos_riesenschildkröte",
-      "grosser_ameisenbär",
-      "halsbandpekari",
-      "lama",
-      "mittelamerikanischer_tapir",
-      "mähnenwolf",
-      "nandu",
-      "weissschulter_kapuzineraffe"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "chinesisches_schuppentier",
+    "id": 35,
+    "slug": "chinesisches_schuppentier",
     "name": "Chinesisches Schuppentier",
     "besucher": "begehbar",
     "kontinente": [
@@ -564,12 +454,11 @@
     "biome": [
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "coquerel_sifaka",
+    "id": 36,
+    "slug": "coquerel_sifaka",
     "name": "Coquerel-Sifaka",
     "besucher": "begehbar",
     "kontinente": [
@@ -577,16 +466,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "kattas",
-      "roter_vari",
-      "schwarzweisser_vari"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "dall_schaf",
+    "id": 37,
+    "slug": "dall_schaf",
     "name": "Dall-Schaf",
     "besucher": "geschlossen",
     "kontinente": [
@@ -595,12 +479,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "damagazelle",
+    "id": 38,
+    "slug": "damagazelle",
     "name": "Damagazelle",
     "besucher": "begehbar",
     "kontinente": [
@@ -609,17 +492,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "dromedar_kamel_kamel",
-      "mendesantilope",
-      "sporenschildkröte",
-      "säbelantilope"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "damhirsch",
+    "id": 39,
+    "slug": "damhirsch",
     "name": "Damhirsch",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -628,19 +505,11 @@
     "biome": [
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "hochlandrind",
-      "höckerschwan",
-      "rothirsch",
-      "tamworth_schwein",
-      "wildschwein",
-      "wisent"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "davidshirsch",
+    "id": 40,
+    "slug": "davidshirsch",
     "name": "Davidshirsch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -649,14 +518,11 @@
     "biome": [
       "feuchtgebiet",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "takin"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "diamantschildkröte",
+    "id": 41,
+    "slug": "diamantschildkröte",
     "name": "Diamantschildkröte",
     "besucher": "geschlossen",
     "kontinente": [
@@ -665,12 +531,11 @@
     "biome": [
       "feuchtgebiet",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "dickhornschaf",
+    "id": 42,
+    "slug": "dickhornschaf",
     "name": "Dickhornschaf",
     "besucher": "geschlossen",
     "kontinente": [
@@ -680,18 +545,11 @@
       "taiga",
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_bison",
-      "elch",
-      "gabelbock",
-      "rentier",
-      "schwarzschwanz-präriehund"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "dingo",
+    "id": 43,
+    "slug": "dingo",
     "name": "Dingo",
     "besucher": "geschlossen",
     "kontinente": [
@@ -702,12 +560,11 @@
       "grasland",
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "donau_kammmolch",
+    "id": 44,
+    "slug": "donau_kammmolch",
     "name": "Donau-Kammmolch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -716,12 +573,11 @@
     "biome": [
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "dromedar_kamel",
+    "id": 45,
+    "slug": "dromedar_kamel",
     "name": "Dromedar Kamel",
     "besucher": "geschlossen",
     "kontinente": [
@@ -732,18 +588,11 @@
       "wüste",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "damagazelle",
-      "mendesantilope",
-      "netzgiraffe",
-      "somali_wildesel",
-      "säbelantilope"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "echte_achatschnecke",
+    "id": 46,
+    "slug": "echte_achatschnecke",
     "name": "Echte Achatschnecke",
     "besucher": "geschlossen",
     "kontinente": [
@@ -752,12 +601,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "eisbär",
+    "id": 47,
+    "slug": "eisbär",
     "name": "Eisbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -768,12 +616,11 @@
       "feuchtgebiet",
       "tundra",
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "elch",
+    "id": 48,
+    "slug": "elch",
     "name": "Elch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -786,14 +633,11 @@
       "tundra",
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "dickhornschaf"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "emu",
+    "id": 49,
+    "slug": "emu",
     "name": "Emu",
     "besucher": "geschlossen",
     "kontinente": [
@@ -804,16 +648,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "quokka",
-      "rotes_riesenkänguru",
-      "rotnackenwallaby"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "erdferkel",
+    "id": 50,
+    "slug": "erdferkel",
     "name": "Erdferkel",
     "besucher": "begehbar",
     "kontinente": [
@@ -822,14 +661,11 @@
     "biome": [
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "erdmännchen"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "erdmännchen",
+    "id": 51,
+    "slug": "erdmännchen",
     "name": "Erdmännchen",
     "besucher": "begehbar",
     "kontinente": [
@@ -838,14 +674,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "erdferkel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "eurasischer_luchs",
+    "id": 52,
+    "slug": "eurasischer_luchs",
     "name": "Eurasischer Luchs",
     "besucher": "geschlossen",
     "kontinente": [
@@ -857,12 +690,11 @@
       "gemässigt",
       "tundra",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "europäischer_dachs",
+    "id": 53,
+    "slug": "europäischer_dachs",
     "name": "Europäischer Dachs",
     "besucher": "geschlossen",
     "kontinente": [
@@ -873,12 +705,11 @@
       "taiga",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "fennek",
+    "id": 54,
+    "slug": "fennek",
     "name": "Fennek",
     "besucher": "begehbar",
     "kontinente": [
@@ -886,12 +717,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "feuersalamander",
+    "id": 55,
+    "slug": "feuersalamander",
     "name": "Feuersalamander",
     "besucher": "geschlossen",
     "kontinente": [
@@ -899,12 +729,11 @@
     ],
     "biome": [
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "flusspferd",
+    "id": 56,
+    "slug": "flusspferd",
     "name": "Flusspferd",
     "besucher": "geschlossen",
     "kontinente": [
@@ -913,14 +742,11 @@
     "biome": [
       "feuchtgebiet",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "fossa",
+    "id": 57,
+    "slug": "fossa",
     "name": "Fossa",
     "besucher": "geschlossen",
     "kontinente": [
@@ -928,12 +754,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "gabelbock",
+    "id": 58,
+    "slug": "gabelbock",
     "name": "Gabelbock",
     "besucher": "begehbar",
     "kontinente": [
@@ -944,15 +769,11 @@
       "gemässigt",
       "taiga",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_bison",
-      "dickhornschaf"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "galapagos_riesenschildkröte",
+    "id": 59,
+    "slug": "galapagos_riesenschildkröte",
     "name": "Galapagos-Riesenschildkröte",
     "besucher": "begehbar",
     "kontinente": [
@@ -960,14 +781,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "capybara"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "gangesgavial",
+    "id": 60,
+    "slug": "gangesgavial",
     "name": "Gangesgavial",
     "besucher": "geschlossen",
     "kontinente": [
@@ -977,12 +795,11 @@
       "feuchtgebiet",
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "gelbe_anakonda",
+    "id": 61,
+    "slug": "gelbe_anakonda",
     "name": "Gelbe Anakonda",
     "besucher": "geschlossen",
     "kontinente": [
@@ -991,12 +808,11 @@
     "biome": [
       "tropisch",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "gepard",
+    "id": 62,
+    "slug": "gepard",
     "name": "Gepard",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1005,12 +821,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "gila_krustenechse",
+    "id": 63,
+    "slug": "gila_krustenechse",
     "name": "Gila-Krustenechse",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1018,12 +833,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "goliath_vogelspinne",
+    "id": 64,
+    "slug": "goliath_vogelspinne",
     "name": "Goliath-Vogelspinne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1031,12 +845,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "goliathfrosch",
+    "id": 65,
+    "slug": "goliathfrosch",
     "name": "Goliathfrosch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1045,12 +858,11 @@
     "biome": [
       "tropisch",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "goliathkäfer",
+    "id": 66,
+    "slug": "goliathkäfer",
     "name": "Goliathkäfer",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1059,12 +871,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "griechische_landschildkröte",
+    "id": 67,
+    "slug": "griechische_landschildkröte",
     "name": "Griechische Landschildkröte",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1073,12 +884,11 @@
     "biome": [
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grizzlybär",
+    "id": 68,
+    "slug": "grizzlybär",
     "name": "Grizzlybär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1088,12 +898,11 @@
       "taiga",
       "gemässigt",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grosser_ameisenbär",
+    "id": 69,
+    "slug": "grosser_ameisenbär",
     "name": "Grosser Ameisenbär",
     "besucher": "begehbar",
     "kontinente": [
@@ -1103,18 +912,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "capybara",
-      "halsbandpekari",
-      "mittelamerikanischer_tapir",
-      "mähnenwolf",
-      "weissschulter_kapuzineraffe"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grosser_panda",
+    "id": 70,
+    "slug": "grosser_panda",
     "name": "Grosser Panda",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1123,12 +925,11 @@
     "biome": [
       "gemässigt",
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grosses_wandelndes_blatt",
+    "id": 71,
+    "slug": "grosses_wandelndes_blatt",
     "name": "Grosses Wandelndes Blatt",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1136,12 +937,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grüner_inselleguan",
+    "id": 72,
+    "slug": "grüner_inselleguan",
     "name": "Grüner Inselleguan",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1150,12 +950,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "grüner_leguan",
+    "id": 73,
+    "slug": "grüner_leguan",
     "name": "Grüner Leguan",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1165,12 +964,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "haariger_wüstenskorpion",
+    "id": 74,
+    "slug": "haariger_wüstenskorpion",
     "name": "Haariger Wüstenskorpion",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1178,12 +976,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "halsbandpekari",
+    "id": 75,
+    "slug": "halsbandpekari",
     "name": "Halsbandpekari",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1196,18 +993,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_bison",
-      "capybara",
-      "grosser_ameisenbär",
-      "lama",
-      "weissschulter_kapuzineraffe"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "hausziege",
+    "id": 76,
+    "slug": "hausziege",
     "name": "Hausziege",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1218,15 +1008,11 @@
       "gemässigt",
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "hill-radnor-schaf",
-      "hochlandrind"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "heiliger_pillendreher",
+    "id": 77,
+    "slug": "heiliger_pillendreher",
     "name": "Heiliger Pillendreher",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1236,12 +1022,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "helmkasuar",
+    "id": 78,
+    "slug": "helmkasuar",
     "name": "Helmkasuar",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1250,12 +1035,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "hill_radnor_schaf",
+    "id": 79,
+    "slug": "hill_radnor_schaf",
     "name": "Hill-Radnor-Schaf",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1265,17 +1049,11 @@
       "taiga",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "alpaka",
-      "amerikanischer_standard_esel",
-      "hausziege",
-      "hochlandrind"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "hirschziegenantilope",
+    "id": 80,
+    "slug": "hirschziegenantilope",
     "name": "Hirschziegenantilope",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1284,17 +1062,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "indischer_elefant",
-      "nilgauantilope",
-      "panzernashorn",
-      "wilder_wasserbüffel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "hochlandrind",
+    "id": 81,
+    "slug": "hochlandrind",
     "name": "Hochlandrind",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1304,17 +1076,11 @@
       "taiga",
       "gemässigt",
       "tundra"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "hausziege",
-      "hill-radnor-schaf",
-      "rothirsch"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "honigdachs",
+    "id": 82,
+    "slug": "honigdachs",
     "name": "Honigdachs",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1325,12 +1091,11 @@
       "wüste",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "höckerschwan",
+    "id": 83,
+    "slug": "höckerschwan",
     "name": "Höckerschwan",
     "besucher": "begehbar",
     "kontinente": [
@@ -1340,17 +1105,11 @@
     "biome": [
       "feuchtgebiet",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "rothirsch",
-      "wildschwein",
-      "wisent"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "indischer_elefant",
+    "id": 84,
+    "slug": "indischer_elefant",
     "name": "Indischer Elefant",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1361,17 +1120,11 @@
       "grasland",
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "hirschziegenantilope",
-      "malaysischer_tapir",
-      "nasenaffe",
-      "nilgauantilope"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "indischer_riesenskorpion",
+    "id": 85,
+    "slug": "indischer_riesenskorpion",
     "name": "Indischer Riesenskorpion",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1379,12 +1132,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "isabellbär",
+    "id": 86,
+    "slug": "isabellbär",
     "name": "Isabellbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1393,12 +1145,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "jaguar",
+    "id": 87,
+    "slug": "jaguar",
     "name": "Jaguar",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1411,12 +1162,11 @@
       "grasland",
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "japanmakak",
+    "id": 88,
+    "slug": "japanmakak",
     "name": "Japanmakak",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1425,14 +1175,11 @@
     "biome": [
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "mandschurenkranich"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kalifornischer_seelöwe",
+    "id": 89,
+    "slug": "kalifornischer_seelöwe",
     "name": "Kalifornischer Seelöwe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1442,12 +1189,11 @@
     "biome": [
       "feuchtgebiet",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "karakal",
+    "id": 90,
+    "slug": "karakal",
     "name": "Karakal",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1458,12 +1204,11 @@
       "wüste",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "katta",
+    "id": 91,
+    "slug": "katta",
     "name": "Katta",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1471,16 +1216,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "coquerel_sifaka",
-      "roter_vari",
-      "schwarzweisser_vari"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kegelrobbe",
+    "id": 92,
+    "slug": "kegelrobbe",
     "name": "Kegelrobbe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1491,12 +1231,11 @@
       "feuchtgebiet",
       "gemässigt",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kirk_dikdik",
+    "id": 93,
+    "slug": "kirk_dikdik",
     "name": "Kirk-Dikdik",
     "besucher": "begehbar",
     "kontinente": [
@@ -1504,12 +1243,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kleiner_panda",
+    "id": 94,
+    "slug": "kleiner_panda",
     "name": "Kleiner Panda",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1518,12 +1256,11 @@
     "biome": [
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "koala",
+    "id": 95,
+    "slug": "koala",
     "name": "Koala",
     "besucher": "begehbar",
     "kontinente": [
@@ -1532,14 +1269,11 @@
     "biome": [
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "rotes_riesenkänguru"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kojote",
+    "id": 96,
+    "slug": "kojote",
     "name": "Kojote",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1551,12 +1285,11 @@
       "grasland",
       "wüste",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "komodowaran",
+    "id": 97,
+    "slug": "komodowaran",
     "name": "Komodowaran",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1565,12 +1298,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "krokodilkaiman",
+    "id": 98,
+    "slug": "krokodilkaiman",
     "name": "Krokodilkaiman",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1580,12 +1312,11 @@
       "feuchtgebiet",
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "kubaflamingo",
+    "id": 99,
+    "slug": "kubaflamingo",
     "name": "Kubaflamingo",
     "besucher": "begehbar",
     "kontinente": [
@@ -1598,12 +1329,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "königspinguin",
+    "id": 100,
+    "slug": "königspinguin",
     "name": "Königspinguin",
     "besucher": "begehbar",
     "kontinente": [
@@ -1614,12 +1344,11 @@
     "biome": [
       "feuchtgebiet",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "königstiger",
+    "id": 101,
+    "slug": "königstiger",
     "name": "Königstiger",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1629,12 +1358,11 @@
       "tropisch",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "lama",
+    "id": 102,
+    "slug": "lama",
     "name": "Lama",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -1644,17 +1372,11 @@
       "grasland",
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "alpaka",
-      "capybara",
-      "halsbandpekari",
-      "nandu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "lehmanns_pfeilgiftfrosch",
+    "id": 103,
+    "slug": "lehmanns_pfeilgiftfrosch",
     "name": "Lehmanns Pfeilgiftfrosch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1662,12 +1384,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "leistenkrokodil",
+    "id": 104,
+    "slug": "leistenkrokodil",
     "name": "Leistenkrokodil",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1677,12 +1398,11 @@
     "biome": [
       "feuchtgebiet",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "lippenbär",
+    "id": 105,
+    "slug": "lippenbär",
     "name": "Lippenbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1692,12 +1412,11 @@
       "grasland",
       "gemässigt",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "malaysischer_tapir",
+    "id": 106,
+    "slug": "malaysischer_tapir",
     "name": "Malaysischer Tapir",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1707,19 +1426,11 @@
       "feuchtgebiet",
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "binturong",
-      "borneo_orang_utan",
-      "indischer_elefant",
-      "nasenaffe",
-      "wilder_wasserbüffel",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mandrill",
+    "id": 107,
+    "slug": "mandrill",
     "name": "Mandrill",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1727,14 +1438,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mandschurenkranich",
+    "id": 108,
+    "slug": "mandschurenkranich",
     "name": "Mandschurenkranich",
     "besucher": "begehbar",
     "kontinente": [
@@ -1745,14 +1453,11 @@
       "tundra",
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "japanmakak"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mantelpavian",
+    "id": 109,
+    "slug": "mantelpavian",
     "name": "Mantelpavian",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1761,14 +1466,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_elefant"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mendesantilope",
+    "id": 110,
+    "slug": "mendesantilope",
     "name": "Mendesantilope",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1776,17 +1478,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "damagazelle",
-      "dromedar_kamel",
-      "somali_wildesel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mexikanische_rotknie_vogelspinne",
+    "id": 111,
+    "slug": "mexikanische_rotknie_vogelspinne",
     "name": "Mexikanische Rotknie-Vogelspinne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1796,12 +1492,11 @@
       "tropisch",
       "wüste",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mississippi_alligator",
+    "id": 112,
+    "slug": "mississippi_alligator",
     "name": "Mississippi-Alligator",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1810,12 +1505,11 @@
     "biome": [
       "feuchtgebiet",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mittelamerikanischer_tapir",
+    "id": 113,
+    "slug": "mittelamerikanischer_tapir",
     "name": "Mittelamerikanischer Tapir",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1827,16 +1521,11 @@
       "gemässigt",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "capybara",
-      "grosser_ameisenbär",
-      "weissschulter_kapuzineraffe"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "monarchfalter",
+    "id": 114,
+    "slug": "monarchfalter",
     "name": "Monarchfalter",
     "besucher": "begehbar",
     "kontinente": [
@@ -1849,18 +1538,11 @@
       "gemässigt",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "blauer_morphofalter",
-      "pachliopta_pandiyana",
-      "schwalbenschwanz",
-      "tagpfauenauge",
-      "wolkenloser_schwefel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "mähnenwolf",
+    "id": 115,
+    "slug": "mähnenwolf",
     "name": "Mähnenwolf",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1869,15 +1551,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "capybara",
-      "grosser_ameisenbär"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nacktnasenwombat",
+    "id": 116,
+    "slug": "nacktnasenwombat",
     "name": "Nacktnasenwombat",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1886,12 +1564,11 @@
     "biome": [
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nandu",
+    "id": 117,
+    "slug": "nandu",
     "name": "Nandu",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1900,16 +1577,11 @@
     "biome": [
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "alpaka",
-      "capybara",
-      "lama"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nasenaffe",
+    "id": 118,
+    "slug": "nasenaffe",
     "name": "Nasenaffe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1918,17 +1590,11 @@
     "biome": [
       "feuchtgebiet",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "borneo_zwergelefant",
-      "indischer_elefant",
-      "malaysischer_tapir",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nebelparder",
+    "id": 119,
+    "slug": "nebelparder",
     "name": "Nebelparder",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1937,12 +1603,11 @@
     "biome": [
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "netzgiraffe",
+    "id": 120,
+    "slug": "netzgiraffe",
     "name": "Netzgiraffe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -1951,26 +1616,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "dromedar_kamel",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "säbelantilope",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissnacken_moorantilope",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "neunbinden_gürteltier",
+    "id": 121,
+    "slug": "neunbinden_gürteltier",
     "name": "Neunbinden-Gürteltier",
     "besucher": "begehbar",
     "kontinente": [
@@ -1983,12 +1633,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nilflughund",
+    "id": 122,
+    "slug": "nilflughund",
     "name": "Nilflughund",
     "besucher": "begehbar",
     "kontinente": [
@@ -1999,12 +1648,11 @@
       "grasland",
       "wüste",
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nilgauantilope",
+    "id": 123,
+    "slug": "nilgauantilope",
     "name": "Nilgauantilope",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2013,17 +1661,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "hirschziegenantilope",
-      "indischer_elefant",
-      "panzernashorn",
-      "wilder_wasserbüffel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nilwaran",
+    "id": 124,
+    "slug": "nilwaran",
     "name": "Nilwaran",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2033,12 +1675,11 @@
       "tropisch",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nordamerikanischer_ochsenfrosch",
+    "id": 125,
+    "slug": "nordamerikanischer_ochsenfrosch",
     "name": "Nordamerikanischer Ochsenfrosch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2047,12 +1688,11 @@
     "biome": [
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nordsulawesisches_babirusa",
+    "id": 126,
+    "slug": "nordsulawesisches_babirusa",
     "name": "Nordsulawesisches Babirusa",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2061,12 +1701,11 @@
     "biome": [
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nyala",
+    "id": 127,
+    "slug": "nyala",
     "name": "Nyala",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2075,14 +1714,11 @@
     "biome": [
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "breitmaulnashorn"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "nordlicher_streifenkiwi",
+    "id": 128,
+    "slug": "nordlicher_streifenkiwi",
     "name": "Nordlicher Streifenkiwi",
     "besucher": "begehbar",
     "kontinente": [
@@ -2090,12 +1726,11 @@
     ],
     "biome": [
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "okapi",
+    "id": 129,
+    "slug": "okapi",
     "name": "Okapi",
     "besucher": "begehbar",
     "kontinente": [
@@ -2103,31 +1738,27 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "ozelot",
+    "id": 130,
+    "slug": "ozelot",
     "name": "Ozelot",
     "besucher": "geschlossen",
     "kontinente": [
       "Nordamerika",
-      "Mittelamerika",
+      " Mittelamerika",
       "Südamerika"
     ],
     "biome": [
       "tropisch",
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "pachliopta_pandiyana",
+    "id": 131,
+    "slug": "pachliopta_pandiyana",
     "name": "Pachliopta pandiyana",
     "besucher": "begehbar",
     "kontinente": [
@@ -2135,18 +1766,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "blauer_morphofalter",
-      "monarchfalter",
-      "schwalbenschwanz",
-      "tagpfauenauge",
-      "wolkenloser_schwefel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "pallaskatze",
+    "id": 132,
+    "slug": "pallaskatze",
     "name": "Pallaskatze",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2156,12 +1780,11 @@
       "taiga",
       "tundra",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "panzernashorn",
+    "id": 133,
+    "slug": "panzernashorn",
     "name": "Panzernashorn",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2171,17 +1794,11 @@
       "grasland",
       "gemässigt",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "hirschziegenantilope",
-      "nilgauantilope",
-      "wilder_wasserbüffel",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "pinselohrschwein",
+    "id": 134,
+    "slug": "pinselohrschwein",
     "name": "Pinselohrschwein",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2191,23 +1808,11 @@
       "tropisch",
       "grasland",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "bongo",
-      "bonobo",
-      "flusspferd",
-      "mandrill",
-      "okapi",
-      "schwartzbüffel",
-      "weissnacken_moorantilope",
-      "westlicher_flachlandgorilla",
-      "westlicher_schimpanse",
-      "zwergflusspferd"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "polarfuchs",
+    "id": 135,
+    "slug": "polarfuchs",
     "name": "Polarfuchs",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2218,12 +1823,11 @@
     "biome": [
       "tundra",
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "polarwolf",
+    "id": 136,
+    "slug": "polarwolf",
     "name": "Polarwolf",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2232,12 +1836,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "przewalski_pferd",
+    "id": 137,
+    "slug": "przewalski_pferd",
     "name": "Przewalski-Pferd",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2246,14 +1849,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "trampeltier"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "puffotter",
+    "id": 138,
+    "slug": "puffotter",
     "name": "Puffotter",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2262,12 +1862,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "puma",
+    "id": 139,
+    "slug": "puma",
     "name": "Puma",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2281,12 +1880,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "quokka",
+    "id": 140,
+    "slug": "quokka",
     "name": "Quokka",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2294,14 +1892,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "emu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rappenantilope",
+    "id": 141,
+    "slug": "rappenantilope",
     "name": "Rappenantilope",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2309,23 +1904,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rentier",
+    "id": 142,
+    "slug": "rentier",
     "name": "Rentier",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2336,14 +1919,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [
-      "dickhornschaf"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "riesenbockkäfer",
+    "id": 143,
+    "slug": "riesenbockkäfer",
     "name": "Riesenbockkäfer",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2351,12 +1931,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "riesenotter",
+    "id": 144,
+    "slug": "riesenotter",
     "name": "Riesenotter",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2366,12 +1945,11 @@
       "feuchtgebiet",
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rosaflamingo",
+    "id": 145,
+    "slug": "rosaflamingo",
     "name": "Rosaflamingo",
     "besucher": "begehbar",
     "kontinente": [
@@ -2384,12 +1962,11 @@
       "tropisch",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rotaugenlaubfrosch",
+    "id": 146,
+    "slug": "rotaugenlaubfrosch",
     "name": "Rotaugenlaubfrosch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2398,12 +1975,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "roter_vari",
+    "id": 147,
+    "slug": "roter_vari",
     "name": "Roter Vari",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2411,16 +1987,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "coquerel_sifaka",
-      "katta",
-      "schwarzweisser_vari"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rotes_riesenkänguru",
+    "id": 148,
+    "slug": "rotes_riesenkänguru",
     "name": "Rotes Riesenkänguru",
     "besucher": "begehbar",
     "kontinente": [
@@ -2429,16 +2000,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "emu",
-      "koala",
-      "rotnackenwallaby"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rotfuchs",
+    "id": 149,
+    "slug": "rotfuchs",
     "name": "Rotfuchs",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2453,12 +2019,11 @@
       "grasland",
       "wüste",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rothirsch",
+    "id": 150,
+    "slug": "rothirsch",
     "name": "Rothirsch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2470,19 +2035,11 @@
       "grasland",
       "gemässigt",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "hochlandrind",
-      "höckerschwan",
-      "tamworth_schwein",
-      "wildschwein",
-      "wisent"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rothund",
+    "id": 151,
+    "slug": "rothund",
     "name": "Rothund",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2493,12 +2050,11 @@
       "grasland",
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "rotnackenwallaby",
+    "id": 152,
+    "slug": "rotnackenwallaby",
     "name": "Rotnackenwallaby",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2507,15 +2063,11 @@
     "biome": [
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "emu",
-      "rotes_riesenkänguru"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "saiga",
+    "id": 153,
+    "slug": "saiga",
     "name": "Saiga",
     "besucher": "begehbar",
     "kontinente": [
@@ -2524,12 +2076,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "sandkatze",
+    "id": 154,
+    "slug": "sandkatze",
     "name": "Sandkatze",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2538,12 +2089,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schnabeltier",
+    "id": 155,
+    "slug": "schnabeltier",
     "name": "Schnabeltier",
     "besucher": "begehbar",
     "kontinente": [
@@ -2554,12 +2104,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schneeleopard",
+    "id": 156,
+    "slug": "schneeleopard",
     "name": "Schneeleopard",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2567,12 +2116,11 @@
     ],
     "biome": [
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schraubenziege",
+    "id": 157,
+    "slug": "schraubenziege",
     "name": "Schraubenziege",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2581,14 +2129,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [
-      "takin"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schrecklicher_pfeilgiftfrosch",
+    "id": 158,
+    "slug": "schrecklicher_pfeilgiftfrosch",
     "name": "Schrecklicher Pfeilgiftfrosch",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2596,12 +2141,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schwalbenschwanz",
+    "id": 159,
+    "slug": "schwalbenschwanz",
     "name": "Schwalbenschwanz",
     "besucher": "begehbar",
     "kontinente": [
@@ -2614,18 +2158,11 @@
       "grasland",
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [
-      "blauer_morphofalter",
-      "monarchfalter",
-      "pachliopta_pandiyana",
-      "tagpfauenauge",
-      "wolkenloser_schwefel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schwarzbüffel",
+    "id": 160,
+    "slug": "schwarzbüffel",
     "name": "Schwarzbüffel",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2635,26 +2172,11 @@
       "grasland",
       "tropisch",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "pinselohrschwein",
-      "rappenantilope",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "säbelantilope",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissnacken_moorantilope",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schwarzschwanz_präriehund",
+    "id": 161,
+    "slug": "schwarzschwanz_präriehund",
     "name": "Schwarzschwanz-Präriehund",
     "besucher": "begehbar",
     "kontinente": [
@@ -2663,16 +2185,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_bison",
-      "dickhornschaf",
-      "streifenskunk"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "schwarzweisser_vari",
+    "id": 162,
+    "slug": "schwarzweisser_vari",
     "name": "Schwarzweisser Vari",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2680,16 +2197,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "coquerel_sifaka",
-      "katta",
-      "roter_vari"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "siamang",
+    "id": 163,
+    "slug": "siamang",
     "name": "Siamang",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2697,15 +2209,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "borneo_orang_utan",
-      "weisshandgibbon"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "sibirischer_tiger",
+    "id": 164,
+    "slug": "sibirischer_tiger",
     "name": "Sibirischer Tiger",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2714,12 +2222,11 @@
     "biome": [
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "somali_wildesel",
+    "id": 165,
+    "slug": "somali_wildesel",
     "name": "Somali-Wildesel",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2727,16 +2234,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "dromedar_kamel",
-      "mendesantilope"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "sonnenbär",
+    "id": 166,
+    "slug": "sonnenbär",
     "name": "Sonnenbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2746,14 +2248,11 @@
       "tropisch",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "binturong"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "spiessbock",
+    "id": 167,
+    "slug": "spiessbock",
     "name": "Spiessbock",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2761,12 +2260,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "spitzmaulnashorn",
+    "id": 168,
+    "slug": "spitzmaulnashorn",
     "name": "Spitzmaulnashorn",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2775,12 +2273,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "spornschildkröte",
+    "id": 169,
+    "slug": "spornschildkröte",
     "name": "Spornschildkröte",
     "besucher": "begehbar",
     "kontinente": [
@@ -2789,14 +2286,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "damagazelle"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "springbock",
+    "id": 170,
+    "slug": "springbock",
     "name": "Springbock",
     "besucher": "begehbar",
     "kontinente": [
@@ -2805,23 +2299,11 @@
     "biome": [
       "grasland",
       "wüste"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "steppenzebra",
-      "streifengnu",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "steppenzebra",
+    "id": 171,
+    "slug": "steppenzebra",
     "name": "Steppenzebra",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2829,24 +2311,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "streifengnu",
-      "säbelantilope",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "streifengnu",
+    "id": 172,
+    "slug": "streifengnu",
     "name": "Streifengnu",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2854,23 +2323,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "tomsen_gazelle",
-      "warzenschwein",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "streifenhyäne",
+    "id": 173,
+    "slug": "streifenhyäne",
     "name": "Streifenhyäne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2882,12 +2339,11 @@
       "tropisch",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "streifenskunk",
+    "id": 174,
+    "slug": "streifenskunk",
     "name": "Streifenskunk",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2897,16 +2353,11 @@
       "gemässigt",
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_biber",
-      "schwarzschwanz-präriehund",
-      "waschbär"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "sussex_huhn",
+    "id": 175,
+    "slug": "sussex_huhn",
     "name": "Sussex-Huhn",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -2917,14 +2368,11 @@
       "gemässigt",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "tamworth_schwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "säbelantilope",
+    "id": 176,
+    "slug": "säbelantilope",
     "name": "Säbelantilope",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2933,19 +2381,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "damagazelle",
-      "dromedar_kamel",
-      "netzgiraffe",
-      "schwartzbüffel",
-      "steppenzebra"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "tagpfauenauge",
+    "id": 177,
+    "slug": "tagpfauenauge",
     "name": "Tagpfauenauge",
     "besucher": "begehbar",
     "kontinente": [
@@ -2955,18 +2395,11 @@
     "biome": [
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "blauer_morphofalter",
-      "monarchfalter",
-      "pachliopta_pandiyana",
-      "schwalbenschwanz",
-      "wolkenloser_schwefel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "taiwanischer_schwarzbär",
+    "id": 178,
+    "slug": "taiwanischer_schwarzbär",
     "name": "Taiwanischer Schwarzbär",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2976,12 +2409,11 @@
       "tropisch",
       "gemässigt",
       "taiga"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "takin",
+    "id": 179,
+    "slug": "takin",
     "name": "Takin",
     "besucher": "geschlossen",
     "kontinente": [
@@ -2990,15 +2422,11 @@
     "biome": [
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "davidshirsch",
-      "schraubenziege"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "tamworth_schwein",
+    "id": 180,
+    "slug": "tamworth_schwein",
     "name": "Tamworth-Schwein",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -3008,16 +2436,11 @@
       "gemässigt",
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "rothirsch",
-      "sussex_huhn"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "tanuki",
+    "id": 181,
+    "slug": "tanuki",
     "name": "Tanuki",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3025,12 +2448,11 @@
     ],
     "biome": [
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "tasmanischer_teufel",
+    "id": 182,
+    "slug": "tasmanischer_teufel",
     "name": "Tasmanischer Teufel",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3038,12 +2460,11 @@
     ],
     "biome": [
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "texas_klapperschlange",
+    "id": 183,
+    "slug": "texas_klapperschlange",
     "name": "Texas-Klapperschlange",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3054,12 +2475,11 @@
       "wüste",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "thomson_gazelle",
+    "id": 184,
+    "slug": "thomson_gazelle",
     "name": "Thomson-Gazelle",
     "besucher": "begehbar",
     "kontinente": [
@@ -3067,23 +2487,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "warzenschwein",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "timberwolf",
+    "id": 185,
+    "slug": "timberwolf",
     "name": "Timberwolf",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3095,12 +2503,11 @@
       "taiga",
       "gemässigt",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "todesotter",
+    "id": 186,
+    "slug": "todesotter",
     "name": "Todesotter",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3109,12 +2516,11 @@
     "biome": [
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "trampeltier",
+    "id": 187,
+    "slug": "trampeltier",
     "name": "Trampeltier",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3123,14 +2529,11 @@
     "biome": [
       "wüste",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "przewalski_pferd"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "tüpfelhyäne",
+    "id": 188,
+    "slug": "tüpfelhyäne",
     "name": "Tüpfelhyäne",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3138,12 +2541,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "vielfrass",
+    "id": 189,
+    "slug": "vielfrass",
     "name": "Vielfrass",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3154,12 +2556,11 @@
     "biome": [
       "taiga",
       "tundra"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "waldhund",
+    "id": 190,
+    "slug": "waldhund",
     "name": "Waldhund",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3169,12 +2570,11 @@
       "grasland",
       "tropisch",
       "feuchtgebiet"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "warzenschwein",
+    "id": 191,
+    "slug": "warzenschwein",
     "name": "Warzenschwein",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3183,22 +2583,11 @@
     "biome": [
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "tomsen_gazelle",
-      "weissschwanzgnu"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "waschbär",
+    "id": 192,
+    "slug": "waschbär",
     "name": "Waschbär",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -3211,15 +2600,11 @@
       "taiga",
       "grasland",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "amerikanischer_biber",
-      "streifenskunk"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "weisshandgibbon",
+    "id": 193,
+    "slug": "weisshandgibbon",
     "name": "Weisshandgibbon",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3227,16 +2612,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "borneo_orang_utan",
-      "siamang",
-      "zwergotter"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "weisskopfsaki",
+    "id": 194,
+    "slug": "weisskopfsaki",
     "name": "Weisskopfsaki",
     "besucher": "begehbar",
     "kontinente": [
@@ -3244,12 +2624,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "weissnacken_moorantilope",
+    "id": 195,
+    "slug": "weissnacken_moorantilope",
     "name": "Weissnacken-Moorantilope",
     "besucher": "begehbar",
     "kontinente": [
@@ -3258,17 +2637,11 @@
     "biome": [
       "feuchtgebiet",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "netzgiraffe",
-      "pinselohrschwein",
-      "schwartzbüffel"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "weissschulter_kapuzineraffe",
+    "id": 196,
+    "slug": "weissschulter_kapuzineraffe",
     "name": "Weissschulter-Kapuzineraffe",
     "besucher": "begehbar+interaktion",
     "kontinente": [
@@ -3278,12 +2651,11 @@
     "biome": [
       "tropisch",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "weissschwanzgnu",
+    "id": 197,
+    "slug": "weissschwanzgnu",
     "name": "Weissschwanzgnu",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3291,23 +2663,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "afrikanischer_strauss",
-      "breitmaulnashorn",
-      "netzgiraffe",
-      "rappenantilope",
-      "schwartzbüffel",
-      "springbock",
-      "steppenzebra",
-      "streifengnu",
-      "tomsen_gazelle",
-      "warzenschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "westafrikanischer_löwe",
+    "id": 198,
+    "slug": "westafrikanischer_löwe",
     "name": "Westafrikanischer Löwe",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3315,12 +2675,11 @@
     ],
     "biome": [
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "westafrikanisches_stachelschwein",
+    "id": 199,
+    "slug": "westafrikanisches_stachelschwein",
     "name": "Westafrikanisches Stachelschwein",
     "besucher": "begehbar",
     "kontinente": [
@@ -3329,12 +2688,11 @@
     "biome": [
       "wüste",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "westlicher_flachlandgorilla",
+    "id": 200,
+    "slug": "westlicher_flachlandgorilla",
     "name": "Westlicher Flachlandgorilla",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3342,14 +2700,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "westlicher_schimpanse",
+    "id": 201,
+    "slug": "westlicher_schimpanse",
     "name": "Westlicher Schimpanse",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3357,14 +2712,11 @@
     ],
     "biome": [
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "wild_wasserbüffel",
+    "id": 202,
+    "slug": "wild_wasserbüffel",
     "name": "Wild Wasserbüffel",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3374,17 +2726,11 @@
       "tropisch",
       "feuchtgebiet",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "hirschziegenantilope",
-      "malaysischer_tapir",
-      "nilgauantilope",
-      "panzernashorn"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "wildschwein",
+    "id": 203,
+    "slug": "wildschwein",
     "name": "Wildschwein",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3398,17 +2744,11 @@
       "wüste",
       "taiga",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "höckerschwan",
-      "rothirsch",
-      "wisent"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "wisent",
+    "id": 204,
+    "slug": "wisent",
     "name": "Wisent",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3418,17 +2758,11 @@
       "grasland",
       "taiga",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [
-      "damhirsch",
-      "höckerschwan",
-      "rothirsch",
-      "wildschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "wolkenloser_schwefel",
+    "id": 205,
+    "slug": "wolkenloser_schwefel",
     "name": "Wolkenloser Schwefel",
     "besucher": "begehbar",
     "kontinente": [
@@ -3439,18 +2773,11 @@
       "gemässigt",
       "grasland",
       "taiga"
-    ],
-    "interspezifisch_ids": [
-      "blauer_morphofalter",
-      "monarchfalter",
-      "pachliopta_pandiyana",
-      "schwalbenschwanz",
-      "tagpfauenauge"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "wüsten_hornviper",
+    "id": 206,
+    "slug": "wüsten_hornviper",
     "name": "Wüsten-Hornviper",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3459,12 +2786,11 @@
     ],
     "biome": [
       "wüste"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "zwergflusspferd",
+    "id": 207,
+    "slug": "zwergflusspferd",
     "name": "Zwergflusspferd",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3473,14 +2799,11 @@
     "biome": [
       "feuchtgebiet",
       "tropisch"
-    ],
-    "interspezifisch_ids": [
-      "pinselohrschwein"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "zwergotter",
+    "id": 208,
+    "slug": "zwergotter",
     "name": "Zwergotter",
     "besucher": "begehbar",
     "kontinente": [
@@ -3490,20 +2813,11 @@
       "feuchtgebiet",
       "tropisch",
       "grasland"
-    ],
-    "interspezifisch_ids": [
-      "binturong",
-      "borneo_orang_utan",
-      "borneo_zwergelefant",
-      "malaysischer_tapir",
-      "nasenaffe",
-      "panzernashorn",
-      "weisshandgibbon"
-    ],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "zwergpinguin",
+    "id": 209,
+    "slug": "zwergpinguin",
     "name": "Zwergpinguin",
     "besucher": "begehbar",
     "kontinente": [
@@ -3513,12 +2827,11 @@
       "feuchtgebiet",
       "gemässigt",
       "grasland"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "östliche_braunschlange",
+    "id": 210,
+    "slug": "östliche_braunschlange",
     "name": "Östliche Braunschlange",
     "besucher": "geschlossen",
     "kontinente": [
@@ -3528,12 +2841,11 @@
       "wüste",
       "grasland",
       "gemässigt"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   },
   {
-    "id": "test",
+    "id": 211,
+    "slug": "test",
     "name": "test",
     "besucher": "???",
     "kontinente": [
@@ -3541,8 +2853,6 @@
     ],
     "biome": [
       "???"
-    ],
-    "interspezifisch_ids": [],
-    "neutral_ids": []
+    ]
   }
 ]

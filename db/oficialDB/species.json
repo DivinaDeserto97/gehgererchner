@@ -1,0 +1,2858 @@
+[
+  {
+    "id": 1,
+    "slug": "abgottschlange",
+    "name": "Abgottschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "afrikanischer_elefant",
+    "name": "Afrikanischer Elefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "afrikanischer_leopard",
+    "name": "Afrikanischer Leopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "afrikanischer_strauss",
+    "name": "Afrikanischer Strauss",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "afrikanischer_wildhund",
+    "name": "Afrikanischer Wildhund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "aldabra_riesenschildkröte",
+    "name": "Aldabra-Riesenschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "alpaka",
+    "name": "Alpaka",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "alpensteinbock",
+    "name": "Alpensteinbock",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "amerikanischer_biber",
+    "name": "Amerikanischer Biber",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "amerikanischer_bison",
+    "name": "Amerikanischer Bison",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "amerikanischer_standard_esel",
+    "name": "Amerikanischer Standard Esel",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "amurleopard",
+    "name": "Amurleopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "australische_grossschabe",
+    "name": "Australische Grossschabe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "axolotl",
+    "name": "Axolotl",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "wüste"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "bartaffe",
+    "name": "Bartaffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "bindenwaran",
+    "name": "Bindenwaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "binturong",
+    "name": "Binturong",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "blauer_morphofalter",
+    "name": "Blauer Morphofalter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "blauer_pfau",
+    "name": "Blauer Pfau",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "blauzungenskink",
+    "name": "Blauzungenskink",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "bongo",
+    "name": "Bongo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "bonobo",
+    "name": "Bonobo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "borneo_orang_utan",
+    "name": "Borneo-Orang-Utan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "borneo_zwergelefant",
+    "name": "Borneo-Zwergelefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "brasilianische_riesenvogelspinne",
+    "name": "Brasilianische Riesenvogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "brasilianische_wanderspinne",
+    "name": "Brasilianische Wanderspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "brasilianischer_riesenläufer",
+    "name": "Brasilianischer Riesenläufer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "brauen_glattstirnkaiman",
+    "name": "Brauen-Glattstirnkaiman",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "braunkehl_faultier",
+    "name": "Braunkehl-Faultier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "breitmaulnashorn",
+    "name": "Breitmaulnashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "brillenbär",
+    "name": "Brillenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "tundra",
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "brillenflughund",
+    "name": "Brillenflughund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien",
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "brillenpinguin",
+    "name": "Brillenpinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "wüste"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "capybara",
+    "name": "Capybara",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "chinesisches_schuppentier",
+    "name": "Chinesisches Schuppentier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "coquerel_sifaka",
+    "name": "Coquerel-Sifaka",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "dall_schaf",
+    "name": "Dall-Schaf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "damagazelle",
+    "name": "Damagazelle",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "damhirsch",
+    "name": "Damhirsch",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "davidshirsch",
+    "name": "Davidshirsch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "diamantschildkröte",
+    "name": "Diamantschildkröte",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "dickhornschaf",
+    "name": "Dickhornschaf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "dingo",
+    "name": "Dingo",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "donau_kammmolch",
+    "name": "Donau-Kammmolch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "dromedar_kamel",
+    "name": "Dromedar Kamel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "echte_achatschnecke",
+    "name": "Echte Achatschnecke",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "eisbär",
+    "name": "Eisbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra",
+      "taiga"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "elch",
+    "name": "Elch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra",
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "emu",
+    "name": "Emu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "erdferkel",
+    "name": "Erdferkel",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "erdmännchen",
+    "name": "Erdmännchen",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "eurasischer_luchs",
+    "name": "Eurasischer Luchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra",
+      "grasland"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "europäischer_dachs",
+    "name": "Europäischer Dachs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "fennek",
+    "name": "Fennek",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "feuersalamander",
+    "name": "Feuersalamander",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "flusspferd",
+    "name": "Flusspferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland"
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "fossa",
+    "name": "Fossa",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "gabelbock",
+    "name": "Gabelbock",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "taiga",
+      "wüste"
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "galapagos_riesenschildkröte",
+    "name": "Galapagos-Riesenschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "gangesgavial",
+    "name": "Gangesgavial",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "gelbe_anakonda",
+    "name": "Gelbe Anakonda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "gepard",
+    "name": "Gepard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "gila_krustenechse",
+    "name": "Gila-Krustenechse",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "goliath_vogelspinne",
+    "name": "Goliath-Vogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "goliathfrosch",
+    "name": "Goliathfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "goliathkäfer",
+    "name": "Goliathkäfer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "griechische_landschildkröte",
+    "name": "Griechische Landschildkröte",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "grizzlybär",
+    "name": "Grizzlybär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "grosser_ameisenbär",
+    "name": "Grosser Ameisenbär",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "grosser_panda",
+    "name": "Grosser Panda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "taiga"
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "grosses_wandelndes_blatt",
+    "name": "Grosses Wandelndes Blatt",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "grüner_inselleguan",
+    "name": "Grüner Inselleguan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "grüner_leguan",
+    "name": "Grüner Leguan",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "haariger_wüstenskorpion",
+    "name": "Haariger Wüstenskorpion",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "halsbandpekari",
+    "name": "Halsbandpekari",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "hausziege",
+    "name": "Hausziege",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "heiliger_pillendreher",
+    "name": "Heiliger Pillendreher",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "helmkasuar",
+    "name": "Helmkasuar",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien",
+      "Südostasien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "hill_radnor_schaf",
+    "name": "Hill-Radnor-Schaf",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "hirschziegenantilope",
+    "name": "Hirschziegenantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "hochlandrind",
+    "name": "Hochlandrind",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "honigdachs",
+    "name": "Honigdachs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "höckerschwan",
+    "name": "Höckerschwan",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "indischer_elefant",
+    "name": "Indischer Elefant",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "indischer_riesenskorpion",
+    "name": "Indischer Riesenskorpion",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "isabellbär",
+    "name": "Isabellbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "jaguar",
+    "name": "Jaguar",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika",
+      "Nordamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "japanmakak",
+    "name": "Japanmakak",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "kalifornischer_seelöwe",
+    "name": "Kalifornischer Seelöwe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "karakal",
+    "name": "Karakal",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "katta",
+    "name": "Katta",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "kegelrobbe",
+    "name": "Kegelrobbe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "tundra"
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "kirk_dikdik",
+    "name": "Kirk-Dikdik",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "kleiner_panda",
+    "name": "Kleiner Panda",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "koala",
+    "name": "Koala",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "kojote",
+    "name": "Kojote",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "wüste",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "komodowaran",
+    "name": "Komodowaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "krokodilkaiman",
+    "name": "Krokodilkaiman",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "kubaflamingo",
+    "name": "Kubaflamingo",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "königspinguin",
+    "name": "Königspinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Antarktis",
+      "Südamerika",
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra"
+    ]
+  },
+  {
+    "id": 101,
+    "slug": "königstiger",
+    "name": "Königstiger",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "lama",
+    "name": "Lama",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "lehmanns_pfeilgiftfrosch",
+    "name": "Lehmanns Pfeilgiftfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "leistenkrokodil",
+    "name": "Leistenkrokodil",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien",
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "lippenbär",
+    "name": "Lippenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "malaysischer_tapir",
+    "name": "Malaysischer Tapir",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "mandrill",
+    "name": "Mandrill",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "mandschurenkranich",
+    "name": "Mandschurenkranich",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tundra",
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "mantelpavian",
+    "name": "Mantelpavian",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 110,
+    "slug": "mendesantilope",
+    "name": "Mendesantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 111,
+    "slug": "mexikanische_rotknie_vogelspinne",
+    "name": "Mexikanische Rotknie-Vogelspinne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "wüste",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "mississippi_alligator",
+    "name": "Mississippi-Alligator",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 113,
+    "slug": "mittelamerikanischer_tapir",
+    "name": "Mittelamerikanischer Tapir",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 114,
+    "slug": "monarchfalter",
+    "name": "Monarchfalter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Südamerika",
+      "Asien",
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "mähnenwolf",
+    "name": "Mähnenwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "nacktnasenwombat",
+    "name": "Nacktnasenwombat",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "nandu",
+    "name": "Nandu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 118,
+    "slug": "nasenaffe",
+    "name": "Nasenaffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 119,
+    "slug": "nebelparder",
+    "name": "Nebelparder",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 120,
+    "slug": "netzgiraffe",
+    "name": "Netzgiraffe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 121,
+    "slug": "neunbinden_gürteltier",
+    "name": "Neunbinden-Gürteltier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 122,
+    "slug": "nilflughund",
+    "name": "Nilflughund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "wüste",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 123,
+    "slug": "nilgauantilope",
+    "name": "Nilgauantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 124,
+    "slug": "nilwaran",
+    "name": "Nilwaran",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 125,
+    "slug": "nordamerikanischer_ochsenfrosch",
+    "name": "Nordamerikanischer Ochsenfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 126,
+    "slug": "nordsulawesisches_babirusa",
+    "name": "Nordsulawesisches Babirusa",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 127,
+    "slug": "nyala",
+    "name": "Nyala",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 128,
+    "slug": "nordlicher_streifenkiwi",
+    "name": "Nordlicher Streifenkiwi",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 129,
+    "slug": "okapi",
+    "name": "Okapi",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 130,
+    "slug": "ozelot",
+    "name": "Ozelot",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      " Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 131,
+    "slug": "pachliopta_pandiyana",
+    "name": "Pachliopta pandiyana",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 132,
+    "slug": "pallaskatze",
+    "name": "Pallaskatze",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 133,
+    "slug": "panzernashorn",
+    "name": "Panzernashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 134,
+    "slug": "pinselohrschwein",
+    "name": "Pinselohrschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 135,
+    "slug": "polarfuchs",
+    "name": "Polarfuchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "tundra",
+      "taiga"
+    ]
+  },
+  {
+    "id": 136,
+    "slug": "polarwolf",
+    "name": "Polarwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 137,
+    "slug": "przewalski_pferd",
+    "name": "Przewalski-Pferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 138,
+    "slug": "puffotter",
+    "name": "Puffotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 139,
+    "slug": "puma",
+    "name": "Puma",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "wüste",
+      "taiga",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 140,
+    "slug": "quokka",
+    "name": "Quokka",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 141,
+    "slug": "rappenantilope",
+    "name": "Rappenantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 142,
+    "slug": "rentier",
+    "name": "Rentier",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa",
+      "Nordamerika",
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 143,
+    "slug": "riesenbockkäfer",
+    "name": "Riesenbockkäfer",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 144,
+    "slug": "riesenotter",
+    "name": "Riesenotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 145,
+    "slug": "rosaflamingo",
+    "name": "Rosaflamingo",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika",
+      "Asien",
+      "Europa"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 146,
+    "slug": "rotaugenlaubfrosch",
+    "name": "Rotaugenlaubfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Mittelamerika",
+      "Nordamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 147,
+    "slug": "roter_vari",
+    "name": "Roter Vari",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 148,
+    "slug": "rotes_riesenkänguru",
+    "name": "Rotes Riesenkänguru",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 149,
+    "slug": "rotfuchs",
+    "name": "Rotfuchs",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Europa",
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "taiga",
+      "grasland",
+      "wüste",
+      "tundra"
+    ]
+  },
+  {
+    "id": 150,
+    "slug": "rothirsch",
+    "name": "Rothirsch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt",
+      "taiga"
+    ]
+  },
+  {
+    "id": 151,
+    "slug": "rothund",
+    "name": "Rothund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 152,
+    "slug": "rotnackenwallaby",
+    "name": "Rotnackenwallaby",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 153,
+    "slug": "saiga",
+    "name": "Saiga",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 154,
+    "slug": "sandkatze",
+    "name": "Sandkatze",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 155,
+    "slug": "schnabeltier",
+    "name": "Schnabeltier",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 156,
+    "slug": "schneeleopard",
+    "name": "Schneeleopard",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga"
+    ]
+  },
+  {
+    "id": 157,
+    "slug": "schraubenziege",
+    "name": "Schraubenziege",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 158,
+    "slug": "schrecklicher_pfeilgiftfrosch",
+    "name": "Schrecklicher Pfeilgiftfrosch",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 159,
+    "slug": "schwalbenschwanz",
+    "name": "Schwalbenschwanz",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 160,
+    "slug": "schwarzbüffel",
+    "name": "Schwarzbüffel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 161,
+    "slug": "schwarzschwanz_präriehund",
+    "name": "Schwarzschwanz-Präriehund",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 162,
+    "slug": "schwarzweisser_vari",
+    "name": "Schwarzweisser Vari",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 163,
+    "slug": "siamang",
+    "name": "Siamang",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 164,
+    "slug": "sibirischer_tiger",
+    "name": "Sibirischer Tiger",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 165,
+    "slug": "somali_wildesel",
+    "name": "Somali-Wildesel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 166,
+    "slug": "sonnenbär",
+    "name": "Sonnenbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 167,
+    "slug": "spiessbock",
+    "name": "Spiessbock",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 168,
+    "slug": "spitzmaulnashorn",
+    "name": "Spitzmaulnashorn",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 169,
+    "slug": "spornschildkröte",
+    "name": "Spornschildkröte",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 170,
+    "slug": "springbock",
+    "name": "Springbock",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "wüste"
+    ]
+  },
+  {
+    "id": 171,
+    "slug": "steppenzebra",
+    "name": "Steppenzebra",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 172,
+    "slug": "streifengnu",
+    "name": "Streifengnu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 173,
+    "slug": "streifenhyäne",
+    "name": "Streifenhyäne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "tropisch",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 174,
+    "slug": "streifenskunk",
+    "name": "Streifenskunk",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 175,
+    "slug": "sussex_huhn",
+    "name": "Sussex-Huhn",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 176,
+    "slug": "säbelantilope",
+    "name": "Säbelantilope",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 177,
+    "slug": "tagpfauenauge",
+    "name": "Tagpfauenauge",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Europa",
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 178,
+    "slug": "taiwanischer_schwarzbär",
+    "name": "Taiwanischer Schwarzbär",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt",
+      "taiga"
+    ]
+  },
+  {
+    "id": 179,
+    "slug": "takin",
+    "name": "Takin",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 180,
+    "slug": "tamworth_schwein",
+    "name": "Tamworth-Schwein",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 181,
+    "slug": "tanuki",
+    "name": "Tanuki",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 182,
+    "slug": "tasmanischer_teufel",
+    "name": "Tasmanischer Teufel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 183,
+    "slug": "texas_klapperschlange",
+    "name": "Texas-Klapperschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 184,
+    "slug": "thomson_gazelle",
+    "name": "Thomson-Gazelle",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 185,
+    "slug": "timberwolf",
+    "name": "Timberwolf",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "gemässigt",
+      "tundra"
+    ]
+  },
+  {
+    "id": 186,
+    "slug": "todesotter",
+    "name": "Todesotter",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 187,
+    "slug": "trampeltier",
+    "name": "Trampeltier",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "wüste",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 188,
+    "slug": "tüpfelhyäne",
+    "name": "Tüpfelhyäne",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 189,
+    "slug": "vielfrass",
+    "name": "Vielfrass",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Nordamerika"
+    ],
+    "biome": [
+      "taiga",
+      "tundra"
+    ]
+  },
+  {
+    "id": 190,
+    "slug": "waldhund",
+    "name": "Waldhund",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch",
+      "feuchtgebiet"
+    ]
+  },
+  {
+    "id": 191,
+    "slug": "warzenschwein",
+    "name": "Warzenschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 192,
+    "slug": "waschbär",
+    "name": "Waschbär",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Nordamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "taiga",
+      "grasland",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 193,
+    "slug": "weisshandgibbon",
+    "name": "Weisshandgibbon",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 194,
+    "slug": "weisskopfsaki",
+    "name": "Weisskopfsaki",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Südamerika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 195,
+    "slug": "weissnacken_moorantilope",
+    "name": "Weissnacken-Moorantilope",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "grasland"
+    ]
+  },
+  {
+    "id": 196,
+    "slug": "weissschulter_kapuzineraffe",
+    "name": "Weissschulter-Kapuzineraffe",
+    "besucher": "begehbar+interaktion",
+    "kontinente": [
+      "Südamerika",
+      "Mittelamerika"
+    ],
+    "biome": [
+      "tropisch",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 197,
+    "slug": "weissschwanzgnu",
+    "name": "Weissschwanzgnu",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 198,
+    "slug": "westafrikanischer_löwe",
+    "name": "Westafrikanischer Löwe",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "grasland"
+    ]
+  },
+  {
+    "id": 199,
+    "slug": "westafrikanisches_stachelschwein",
+    "name": "Westafrikanisches Stachelschwein",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "wüste",
+      "grasland"
+    ]
+  },
+  {
+    "id": 200,
+    "slug": "westlicher_flachlandgorilla",
+    "name": "Westlicher Flachlandgorilla",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 201,
+    "slug": "westlicher_schimpanse",
+    "name": "Westlicher Schimpanse",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "tropisch"
+    ]
+  },
+  {
+    "id": 202,
+    "slug": "wild_wasserbüffel",
+    "name": "Wild Wasserbüffel",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "tropisch",
+      "feuchtgebiet",
+      "grasland"
+    ]
+  },
+  {
+    "id": 203,
+    "slug": "wildschwein",
+    "name": "Wildschwein",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa",
+      "Asien",
+      "Afrika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "wüste",
+      "taiga",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 204,
+    "slug": "wisent",
+    "name": "Wisent",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Europa"
+    ],
+    "biome": [
+      "grasland",
+      "taiga",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 205,
+    "slug": "wolkenloser_schwefel",
+    "name": "Wolkenloser Schwefel",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Nordamerika",
+      "Südamerika"
+    ],
+    "biome": [
+      "gemässigt",
+      "grasland",
+      "taiga"
+    ]
+  },
+  {
+    "id": 206,
+    "slug": "wüsten_hornviper",
+    "name": "Wüsten-Hornviper",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika",
+      "Asien"
+    ],
+    "biome": [
+      "wüste"
+    ]
+  },
+  {
+    "id": 207,
+    "slug": "zwergflusspferd",
+    "name": "Zwergflusspferd",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Afrika"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch"
+    ]
+  },
+  {
+    "id": 208,
+    "slug": "zwergotter",
+    "name": "Zwergotter",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Asien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "tropisch",
+      "grasland"
+    ]
+  },
+  {
+    "id": 209,
+    "slug": "zwergpinguin",
+    "name": "Zwergpinguin",
+    "besucher": "begehbar",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "feuchtgebiet",
+      "gemässigt",
+      "grasland"
+    ]
+  },
+  {
+    "id": 210,
+    "slug": "östliche_braunschlange",
+    "name": "Östliche Braunschlange",
+    "besucher": "geschlossen",
+    "kontinente": [
+      "Ozeanien"
+    ],
+    "biome": [
+      "wüste",
+      "grasland",
+      "gemässigt"
+    ]
+  },
+  {
+    "id": 211,
+    "slug": "test",
+    "name": "test",
+    "besucher": "???",
+    "kontinente": [
+      "???"
+    ],
+    "biome": [
+      "???"
+    ]
+  }
+]
